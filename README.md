@@ -167,6 +167,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0055-jump-game](https://github.com/lord-vinayak/cpp-sols/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/lord-vinayak/cpp-sols/tree/master/0078-subsets) |
+| [0120-triangle](https://github.com/lord-vinayak/cpp-sols/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lord-vinayak/cpp-sols/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/lord-vinayak/cpp-sols/tree/master/0130-surrounded-regions) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0062-unique-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/lord-vinayak/cpp-sols/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/lord-vinayak/cpp-sols/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lord-vinayak/cpp-sols/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/lord-vinayak/cpp-sols/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/lord-vinayak/cpp-sols/tree/master/0322-coin-change) |
