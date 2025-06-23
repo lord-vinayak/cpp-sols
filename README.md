@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/lord-vinayak/cpp-sols/tree/master/0399-evaluate-division) |
 | [0494-target-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0494-target-sum) |
 | [0721-accounts-merge](https://github.com/lord-vinayak/cpp-sols/tree/master/0721-accounts-merge) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/lord-vinayak/cpp-sols/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0780-max-chunks-to-make-sorted) |
 | [0881-loud-and-rich](https://github.com/lord-vinayak/cpp-sols/tree/master/0881-loud-and-rich) |
 | [1025-minimum-cost-for-tickets](https://github.com/lord-vinayak/cpp-sols/tree/master/1025-minimum-cost-for-tickets) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/lord-vinayak/cpp-sols/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
