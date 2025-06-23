@@ -186,7 +186,6 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0747-min-cost-climbing-stairs](https://github.com/lord-vinayak/cpp-sols/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0780-max-chunks-to-make-sorted) |
 | [0881-loud-and-rich](https://github.com/lord-vinayak/cpp-sols/tree/master/0881-loud-and-rich) |
-| [0967-minimum-falling-path-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/lord-vinayak/cpp-sols/tree/master/1025-minimum-cost-for-tickets) |
 | [1039-find-the-town-judge](https://github.com/lord-vinayak/cpp-sols/tree/master/1039-find-the-town-judge) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lord-vinayak/cpp-sols/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -230,6 +229,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0070-climbing-stairs](https://github.com/lord-vinayak/cpp-sols/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/lord-vinayak/cpp-sols/tree/master/0263-ugly-number) |
 | [0372-super-pow](https://github.com/lord-vinayak/cpp-sols/tree/master/0372-super-pow) |
+| [0650-2-keys-keyboard](https://github.com/lord-vinayak/cpp-sols/tree/master/0650-2-keys-keyboard) |
 | [0826-soup-servings](https://github.com/lord-vinayak/cpp-sols/tree/master/0826-soup-servings) |
 | [2206-detonate-the-maximum-bombs](https://github.com/lord-vinayak/cpp-sols/tree/master/2206-detonate-the-maximum-bombs) |
 | [2645-pass-the-pillow](https://github.com/lord-vinayak/cpp-sols/tree/master/2645-pass-the-pillow) |
@@ -247,7 +247,6 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0200-number-of-islands](https://github.com/lord-vinayak/cpp-sols/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/lord-vinayak/cpp-sols/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/lord-vinayak/cpp-sols/tree/master/0733-flood-fill) |
-| [0967-minimum-falling-path-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0967-minimum-falling-path-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -269,10 +268,10 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0377-combination-sum-iv](https://github.com/lord-vinayak/cpp-sols/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0494-target-sum) |
+| [0650-2-keys-keyboard](https://github.com/lord-vinayak/cpp-sols/tree/master/0650-2-keys-keyboard) |
 | [0747-min-cost-climbing-stairs](https://github.com/lord-vinayak/cpp-sols/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/lord-vinayak/cpp-sols/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/lord-vinayak/cpp-sols/tree/master/0826-soup-servings) |
-| [0967-minimum-falling-path-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0967-minimum-falling-path-sum) |
 | [0972-knight-dialer](https://github.com/lord-vinayak/cpp-sols/tree/master/0972-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/lord-vinayak/cpp-sols/tree/master/1025-minimum-cost-for-tickets) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/1263-number-of-dice-rolls-with-target-sum) |
