@@ -174,6 +174,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0347-top-k-frequent-elements](https://github.com/lord-vinayak/cpp-sols/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/lord-vinayak/cpp-sols/tree/master/0377-combination-sum-iv) |
 | [0399-evaluate-division](https://github.com/lord-vinayak/cpp-sols/tree/master/0399-evaluate-division) |
+| [0416-partition-equal-subset-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/lord-vinayak/cpp-sols/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0494-target-sum) |
 | [0721-accounts-merge](https://github.com/lord-vinayak/cpp-sols/tree/master/0721-accounts-merge) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0070-climbing-stairs](https://github.com/lord-vinayak/cpp-sols/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lord-vinayak/cpp-sols/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0377-combination-sum-iv](https://github.com/lord-vinayak/cpp-sols/tree/master/0377-combination-sum-iv) |
+| [0416-partition-equal-subset-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0494-target-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/lord-vinayak/cpp-sols/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/lord-vinayak/cpp-sols/tree/master/0826-soup-servings) |
