@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0543-diameter-of-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -28,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/lord-vinayak/cpp-sols/tree/master/0881-loud-and-rich) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lord-vinayak/cpp-sols/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2206-detonate-the-maximum-bombs](https://github.com/lord-vinayak/cpp-sols/tree/master/2206-detonate-the-maximum-bombs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0543-diameter-of-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/lord-vinayak/cpp-sols/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/lord-vinayak/cpp-sols/tree/master/0820-find-eventual-safe-states) |
 | [2206-detonate-the-maximum-bombs](https://github.com/lord-vinayak/cpp-sols/tree/master/2206-detonate-the-maximum-bombs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
 |  |
 | ------- |
