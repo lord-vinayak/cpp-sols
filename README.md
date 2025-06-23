@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/lord-vinayak/cpp-sols/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/lord-vinayak/cpp-sols/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/lord-vinayak/cpp-sols/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/lord-vinayak/cpp-sols/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/lord-vinayak/cpp-sols/tree/master/0813-all-paths-from-source-to-target) |
 | [0881-loud-and-rich](https://github.com/lord-vinayak/cpp-sols/tree/master/0881-loud-and-rich) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lord-vinayak/cpp-sols/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/lord-vinayak/cpp-sols/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/lord-vinayak/cpp-sols/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/lord-vinayak/cpp-sols/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/lord-vinayak/cpp-sols/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/lord-vinayak/cpp-sols/tree/master/0813-all-paths-from-source-to-target) |
 | [2206-detonate-the-maximum-bombs](https://github.com/lord-vinayak/cpp-sols/tree/master/2206-detonate-the-maximum-bombs) |
 ## Graph
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/lord-vinayak/cpp-sols/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/lord-vinayak/cpp-sols/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/lord-vinayak/cpp-sols/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/lord-vinayak/cpp-sols/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/lord-vinayak/cpp-sols/tree/master/0813-all-paths-from-source-to-target) |
 | [0881-loud-and-rich](https://github.com/lord-vinayak/cpp-sols/tree/master/0881-loud-and-rich) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lord-vinayak/cpp-sols/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/lord-vinayak/cpp-sols/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/lord-vinayak/cpp-sols/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/lord-vinayak/cpp-sols/tree/master/0721-accounts-merge) |
+| [0801-is-graph-bipartite](https://github.com/lord-vinayak/cpp-sols/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lord-vinayak/cpp-sols/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Hash Table
 |  |
