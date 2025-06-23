@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/lord-vinayak/cpp-sols/tree/master/0070-climbing-stairs) |
 | [2206-detonate-the-maximum-bombs](https://github.com/lord-vinayak/cpp-sols/tree/master/2206-detonate-the-maximum-bombs) |
 ## Geometry
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/lord-vinayak/cpp-sols/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/lord-vinayak/cpp-sols/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lord-vinayak/cpp-sols/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/lord-vinayak/cpp-sols/tree/master/0055-jump-game) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lord-vinayak/cpp-sols/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
