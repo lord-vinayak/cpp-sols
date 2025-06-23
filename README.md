@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/lord-vinayak/cpp-sols/tree/master/0130-surrounded-regions) |
 | [0399-evaluate-division](https://github.com/lord-vinayak/cpp-sols/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/lord-vinayak/cpp-sols/tree/master/0547-number-of-provinces) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0128-longest-consecutive-sequence) |
 | [0567-permutation-in-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/lord-vinayak/cpp-sols/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lord-vinayak/cpp-sols/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/lord-vinayak/cpp-sols/tree/master/0130-surrounded-regions) |
 | [0399-evaluate-division](https://github.com/lord-vinayak/cpp-sols/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/lord-vinayak/cpp-sols/tree/master/0721-accounts-merge) |
