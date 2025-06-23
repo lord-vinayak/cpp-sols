@@ -228,6 +228,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2206-detonate-the-maximum-bombs](https://github.com/lord-vinayak/cpp-sols/tree/master/2206-detonate-the-maximum-bombs) |
 | [2645-pass-the-pillow](https://github.com/lord-vinayak/cpp-sols/tree/master/2645-pass-the-pillow) |
 | [2812-find-the-maximum-achievable-number](https://github.com/lord-vinayak/cpp-sols/tree/master/2812-find-the-maximum-achievable-number) |
+| [3625-stone-removal-game](https://github.com/lord-vinayak/cpp-sols/tree/master/3625-stone-removal-game) |
 ## Geometry
 |  |
 | ------- |
@@ -332,4 +333,5 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lord-vinayak/cpp-sols/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2645-pass-the-pillow](https://github.com/lord-vinayak/cpp-sols/tree/master/2645-pass-the-pillow) |
+| [3625-stone-removal-game](https://github.com/lord-vinayak/cpp-sols/tree/master/3625-stone-removal-game) |
 <!---LeetCode Topics End-->
