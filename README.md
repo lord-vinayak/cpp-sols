@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/lord-vinayak/cpp-sols/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/lord-vinayak/cpp-sols/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/lord-vinayak/cpp-sols/tree/master/0263-ugly-number) |
 | [0826-soup-servings](https://github.com/lord-vinayak/cpp-sols/tree/master/0826-soup-servings) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/lord-vinayak/cpp-sols/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lord-vinayak/cpp-sols/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lord-vinayak/cpp-sols/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
