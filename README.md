@@ -1,6 +1,43 @@
 # cpp-sols
 A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 
+- TOC
+  * [Tree](#tree)
+  * [Depth-First Search](#depth-first-search)
+  * [Binary Tree](#binary-tree)
+  * [Breadth-First Search](#breadth-first-search)
+  * [Graph](#graph)
+  * [Heap (Priority Queue)](#heap-priority-queue)
+  * [Shortest Path](#shortest-path)
+  * [Union Find](#union-find)
+  * [Hash Table](#hash-table)
+  * [Two Pointers](#two-pointers)
+  * [String](#string)
+  * [Sliding Window](#sliding-window)
+  * [Array](#array)
+  * [Sorting](#sorting)
+  * [Topological Sort](#topological-sort)
+  * [Backtracking](#backtracking)
+  * [Math](#math)
+  * [Geometry](#geometry)
+  * [Matrix](#matrix)
+  * [Binary Search](#binary-search)
+  * [Dynamic Programming](#dynamic-programming)
+  * [Stack](#stack)
+  * [Monotonic Stack](#monotonic-stack)
+  * [Prefix Sum](#prefix-sum)
+  * [Bit Manipulation](#bit-manipulation)
+  * [Divide and Conquer](#divide-and-conquer)
+  * [Bucket Sort](#bucket-sort)
+  * [Counting](#counting)
+  * [Quickselect](#quickselect)
+  * [Greedy](#greedy)
+  * [Memoization](#memoization)
+  * [Combinatorics](#combinatorics)
+  * [Probability and Statistics](#probability-and-statistics)
+  * [Linked List](#linked-list)
+  * [Simulation](#simulation)
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Tree
