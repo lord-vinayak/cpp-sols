@@ -94,7 +94,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0036-valid-sudoku](https://github.com/lord-vinayak/cpp-sols/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/lord-vinayak/cpp-sols/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/lord-vinayak/cpp-sols/tree/master/0217-contains-duplicate) |
@@ -142,9 +141,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/lord-vinayak/cpp-sols/tree/master/0016-3sum-closest) |
-| [0036-valid-sudoku](https://github.com/lord-vinayak/cpp-sols/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/lord-vinayak/cpp-sols/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/lord-vinayak/cpp-sols/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lord-vinayak/cpp-sols/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/lord-vinayak/cpp-sols/tree/master/0130-surrounded-regions) |
@@ -193,7 +192,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
-| [0036-valid-sudoku](https://github.com/lord-vinayak/cpp-sols/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/lord-vinayak/cpp-sols/tree/master/0130-surrounded-regions) |
 ## Binary Search
 |  |
@@ -203,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/lord-vinayak/cpp-sols/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lord-vinayak/cpp-sols/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
@@ -241,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lord-vinayak/cpp-sols/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/lord-vinayak/cpp-sols/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
