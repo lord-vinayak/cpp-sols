@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/lord-vinayak/cpp-sols/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/lord-vinayak/cpp-sols/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0567-permutation-in-string) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/lord-vinayak/cpp-sols/tree/master/0016-3sum-closest) |
 | [0128-longest-consecutive-sequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/lord-vinayak/cpp-sols/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/lord-vinayak/cpp-sols/tree/master/0016-3sum-closest) |
 | [0721-accounts-merge](https://github.com/lord-vinayak/cpp-sols/tree/master/0721-accounts-merge) |
 ## Topological Sort
 |  |
