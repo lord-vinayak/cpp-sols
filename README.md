@@ -180,6 +180,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0721-accounts-merge](https://github.com/lord-vinayak/cpp-sols/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/lord-vinayak/cpp-sols/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lord-vinayak/cpp-sols/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-min-cost-climbing-stairs](https://github.com/lord-vinayak/cpp-sols/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0780-max-chunks-to-make-sorted) |
 | [0881-loud-and-rich](https://github.com/lord-vinayak/cpp-sols/tree/master/0881-loud-and-rich) |
 | [1025-minimum-cost-for-tickets](https://github.com/lord-vinayak/cpp-sols/tree/master/1025-minimum-cost-for-tickets) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0377-combination-sum-iv](https://github.com/lord-vinayak/cpp-sols/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0494-target-sum) |
+| [0747-min-cost-climbing-stairs](https://github.com/lord-vinayak/cpp-sols/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/lord-vinayak/cpp-sols/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/lord-vinayak/cpp-sols/tree/master/0826-soup-servings) |
 | [0972-knight-dialer](https://github.com/lord-vinayak/cpp-sols/tree/master/0972-knight-dialer) |
