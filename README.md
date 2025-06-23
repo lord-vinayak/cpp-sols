@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/lord-vinayak/cpp-sols/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/lord-vinayak/cpp-sols/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/lord-vinayak/cpp-sols/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/lord-vinayak/cpp-sols/tree/master/0310-minimum-height-trees) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/lord-vinayak/cpp-sols/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/lord-vinayak/cpp-sols/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/lord-vinayak/cpp-sols/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/lord-vinayak/cpp-sols/tree/master/0310-minimum-height-trees) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/lord-vinayak/cpp-sols/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/lord-vinayak/cpp-sols/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/lord-vinayak/cpp-sols/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/lord-vinayak/cpp-sols/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/lord-vinayak/cpp-sols/tree/master/0684-redundant-connection) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/lord-vinayak/cpp-sols/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/lord-vinayak/cpp-sols/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/lord-vinayak/cpp-sols/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/lord-vinayak/cpp-sols/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/lord-vinayak/cpp-sols/tree/master/0347-top-k-frequent-elements) |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/lord-vinayak/cpp-sols/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/lord-vinayak/cpp-sols/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/lord-vinayak/cpp-sols/tree/master/0733-flood-fill) |
 ## Binary Search
 |  |
