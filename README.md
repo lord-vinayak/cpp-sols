@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/lord-vinayak/cpp-sols/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lord-vinayak/cpp-sols/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 ## Stack
 |  |
 | ------- |
