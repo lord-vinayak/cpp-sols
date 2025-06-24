@@ -44,6 +44,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0543-diameter-of-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/lord-vinayak/cpp-sols/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/lord-vinayak/cpp-sols/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/lord-vinayak/cpp-sols/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/lord-vinayak/cpp-sols/tree/master/0207-course-schedule) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0543-diameter-of-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/lord-vinayak/cpp-sols/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/lord-vinayak/cpp-sols/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/lord-vinayak/cpp-sols/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/lord-vinayak/cpp-sols/tree/master/0207-course-schedule) |
