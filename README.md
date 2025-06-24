@@ -157,6 +157,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0242-valid-anagram](https://github.com/lord-vinayak/cpp-sols/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/lord-vinayak/cpp-sols/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/lord-vinayak/cpp-sols/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/lord-vinayak/cpp-sols/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/lord-vinayak/cpp-sols/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lord-vinayak/cpp-sols/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0377-combination-sum-iv](https://github.com/lord-vinayak/cpp-sols/tree/master/0377-combination-sum-iv) |
 | [0399-evaluate-division](https://github.com/lord-vinayak/cpp-sols/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0416-partition-equal-subset-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/lord-vinayak/cpp-sols/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0463-island-perimeter](https://github.com/lord-vinayak/cpp-sols/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0494-target-sum) |
 | [0721-accounts-merge](https://github.com/lord-vinayak/cpp-sols/tree/master/0721-accounts-merge) |
