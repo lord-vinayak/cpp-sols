@@ -52,6 +52,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0257-binary-tree-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/lord-vinayak/cpp-sols/tree/master/0617-merge-two-binary-trees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/lord-vinayak/cpp-sols/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0543-diameter-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/lord-vinayak/cpp-sols/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/lord-vinayak/cpp-sols/tree/master/0617-merge-two-binary-trees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/lord-vinayak/cpp-sols/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/lord-vinayak/cpp-sols/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/lord-vinayak/cpp-sols/tree/master/0733-flood-fill) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0257-binary-tree-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/lord-vinayak/cpp-sols/tree/master/0617-merge-two-binary-trees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/lord-vinayak/cpp-sols/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0463-island-perimeter](https://github.com/lord-vinayak/cpp-sols/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/lord-vinayak/cpp-sols/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/lord-vinayak/cpp-sols/tree/master/0617-merge-two-binary-trees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/lord-vinayak/cpp-sols/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/lord-vinayak/cpp-sols/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/lord-vinayak/cpp-sols/tree/master/0733-flood-fill) |
