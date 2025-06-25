@@ -52,6 +52,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0257-binary-tree-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/lord-vinayak/cpp-sols/tree/master/0617-merge-two-binary-trees) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/lord-vinayak/cpp-sols/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0813-all-paths-from-source-to-target](https://github.com/lord-vinayak/cpp-sols/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/lord-vinayak/cpp-sols/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/lord-vinayak/cpp-sols/tree/master/0881-loud-and-rich) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lord-vinayak/cpp-sols/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/lord-vinayak/cpp-sols/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0257-binary-tree-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/lord-vinayak/cpp-sols/tree/master/0617-merge-two-binary-trees) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/lord-vinayak/cpp-sols/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0801-is-graph-bipartite](https://github.com/lord-vinayak/cpp-sols/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/lord-vinayak/cpp-sols/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/lord-vinayak/cpp-sols/tree/master/0820-find-eventual-safe-states) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2206-detonate-the-maximum-bombs](https://github.com/lord-vinayak/cpp-sols/tree/master/2206-detonate-the-maximum-bombs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -184,6 +188,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0442-find-all-duplicates-in-an-array](https://github.com/lord-vinayak/cpp-sols/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/lord-vinayak/cpp-sols/tree/master/0721-accounts-merge) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lord-vinayak/cpp-sols/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/lord-vinayak/cpp-sols/tree/master/1039-find-the-town-judge) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lord-vinayak/cpp-sols/tree/master/2059-unique-length-3-palindromic-subsequences) |
