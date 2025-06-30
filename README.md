@@ -48,6 +48,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0111-minimum-depth-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lord-vinayak/cpp-sols/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/0257-binary-tree-paths) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0111-minimum-depth-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lord-vinayak/cpp-sols/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/lord-vinayak/cpp-sols/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/lord-vinayak/cpp-sols/tree/master/0200-number-of-islands) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0111-minimum-depth-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lord-vinayak/cpp-sols/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/0257-binary-tree-paths) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0070-climbing-stairs](https://github.com/lord-vinayak/cpp-sols/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/lord-vinayak/cpp-sols/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lord-vinayak/cpp-sols/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0279-perfect-squares](https://github.com/lord-vinayak/cpp-sols/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/lord-vinayak/cpp-sols/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/lord-vinayak/cpp-sols/tree/master/0377-combination-sum-iv) |
