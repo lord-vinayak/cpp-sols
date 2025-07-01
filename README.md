@@ -52,6 +52,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0124-binary-tree-maximum-path-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lord-vinayak/cpp-sols/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/lord-vinayak/cpp-sols/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lord-vinayak/cpp-sols/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0207-course-schedule](https://github.com/lord-vinayak/cpp-sols/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/lord-vinayak/cpp-sols/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/lord-vinayak/cpp-sols/tree/master/0310-minimum-height-trees) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0124-binary-tree-maximum-path-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lord-vinayak/cpp-sols/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/lord-vinayak/cpp-sols/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lord-vinayak/cpp-sols/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -467,4 +470,5 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/lord-vinayak/cpp-sols/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
