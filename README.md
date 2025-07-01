@@ -43,6 +43,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -460,4 +463,8 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lord-vinayak/cpp-sols/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2645-pass-the-pillow](https://github.com/lord-vinayak/cpp-sols/tree/master/2645-pass-the-pillow) |
 | [3625-stone-removal-game](https://github.com/lord-vinayak/cpp-sols/tree/master/3625-stone-removal-game) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
