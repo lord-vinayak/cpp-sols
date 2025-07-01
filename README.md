@@ -50,6 +50,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0113-path-sum-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lord-vinayak/cpp-sols/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0226-invert-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lord-vinayak/cpp-sols/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0200-number-of-islands](https://github.com/lord-vinayak/cpp-sols/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/lord-vinayak/cpp-sols/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/lord-vinayak/cpp-sols/tree/master/0310-minimum-height-trees) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0113-path-sum-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lord-vinayak/cpp-sols/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0226-invert-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lord-vinayak/cpp-sols/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0200-number-of-islands](https://github.com/lord-vinayak/cpp-sols/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/lord-vinayak/cpp-sols/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/lord-vinayak/cpp-sols/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/lord-vinayak/cpp-sols/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/lord-vinayak/cpp-sols/tree/master/0322-coin-change) |
