@@ -55,6 +55,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lord-vinayak/cpp-sols/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/lord-vinayak/cpp-sols/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lord-vinayak/cpp-sols/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/lord-vinayak/cpp-sols/tree/master/0617-merge-two-binary-trees) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lord-vinayak/cpp-sols/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/lord-vinayak/cpp-sols/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lord-vinayak/cpp-sols/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/lord-vinayak/cpp-sols/tree/master/0617-merge-two-binary-trees) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lord-vinayak/cpp-sols/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/lord-vinayak/cpp-sols/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
