@@ -59,6 +59,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0543-diameter-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/lord-vinayak/cpp-sols/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/lord-vinayak/cpp-sols/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0543-diameter-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/lord-vinayak/cpp-sols/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/lord-vinayak/cpp-sols/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -473,5 +475,6 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lord-vinayak/cpp-sols/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
