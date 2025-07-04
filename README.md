@@ -245,6 +245,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/lord-vinayak/cpp-sols/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/lord-vinayak/cpp-sols/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/lord-vinayak/cpp-sols/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/lord-vinayak/cpp-sols/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/0257-binary-tree-paths) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0062-unique-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/lord-vinayak/cpp-sols/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/lord-vinayak/cpp-sols/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/lord-vinayak/cpp-sols/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lord-vinayak/cpp-sols/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0124-binary-tree-maximum-path-sum) |
