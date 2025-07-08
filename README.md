@@ -291,6 +291,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/lord-vinayak/cpp-sols/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/lord-vinayak/cpp-sols/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/lord-vinayak/cpp-sols/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/lord-vinayak/cpp-sols/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0300-longest-increasing-subsequence) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lord-vinayak/cpp-sols/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/lord-vinayak/cpp-sols/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/lord-vinayak/cpp-sols/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/lord-vinayak/cpp-sols/tree/master/0322-coin-change) |
