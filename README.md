@@ -297,6 +297,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0217-contains-duplicate](https://github.com/lord-vinayak/cpp-sols/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/lord-vinayak/cpp-sols/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/lord-vinayak/cpp-sols/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/lord-vinayak/cpp-sols/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/lord-vinayak/cpp-sols/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/lord-vinayak/cpp-sols/tree/master/0354-russian-doll-envelopes) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0213-house-robber-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/lord-vinayak/cpp-sols/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/lord-vinayak/cpp-sols/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/lord-vinayak/cpp-sols/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/lord-vinayak/cpp-sols/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/lord-vinayak/cpp-sols/tree/master/0377-combination-sum-iv) |
