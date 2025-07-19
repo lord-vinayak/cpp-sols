@@ -222,6 +222,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0217-contains-duplicate](https://github.com/lord-vinayak/cpp-sols/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lord-vinayak/cpp-sols/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/lord-vinayak/cpp-sols/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/lord-vinayak/cpp-sols/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/lord-vinayak/cpp-sols/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lord-vinayak/cpp-sols/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0166-fraction-to-recurring-decimal](https://github.com/lord-vinayak/cpp-sols/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/lord-vinayak/cpp-sols/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/0257-binary-tree-paths) |
+| [0387-first-unique-character-in-a-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/lord-vinayak/cpp-sols/tree/master/0389-find-the-difference) |
 | [0399-evaluate-division](https://github.com/lord-vinayak/cpp-sols/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/lord-vinayak/cpp-sols/tree/master/0424-longest-repeating-character-replacement) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lord-vinayak/cpp-sols/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -530,4 +533,8 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0638-shopping-offers](https://github.com/lord-vinayak/cpp-sols/tree/master/0638-shopping-offers) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
