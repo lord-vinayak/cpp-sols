@@ -380,6 +380,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0279-perfect-squares](https://github.com/lord-vinayak/cpp-sols/tree/master/0279-perfect-squares) |
 | [0372-super-pow](https://github.com/lord-vinayak/cpp-sols/tree/master/0372-super-pow) |
 | [0650-2-keys-keyboard](https://github.com/lord-vinayak/cpp-sols/tree/master/0650-2-keys-keyboard) |
+| [0796-reaching-points](https://github.com/lord-vinayak/cpp-sols/tree/master/0796-reaching-points) |
 | [0826-soup-servings](https://github.com/lord-vinayak/cpp-sols/tree/master/0826-soup-servings) |
 | [1119-robot-bounded-in-circle](https://github.com/lord-vinayak/cpp-sols/tree/master/1119-robot-bounded-in-circle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/lord-vinayak/cpp-sols/tree/master/2206-detonate-the-maximum-bombs) |
