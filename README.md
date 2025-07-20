@@ -243,6 +243,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0042-trapping-rain-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/lord-vinayak/cpp-sols/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0443-string-compression](https://github.com/lord-vinayak/cpp-sols/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -259,6 +260,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0389-find-the-difference](https://github.com/lord-vinayak/cpp-sols/tree/master/0389-find-the-difference) |
 | [0399-evaluate-division](https://github.com/lord-vinayak/cpp-sols/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/lord-vinayak/cpp-sols/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/lord-vinayak/cpp-sols/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/lord-vinayak/cpp-sols/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/lord-vinayak/cpp-sols/tree/master/0551-student-attendance-record-i) |
