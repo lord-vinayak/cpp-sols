@@ -314,6 +314,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0354-russian-doll-envelopes](https://github.com/lord-vinayak/cpp-sols/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/lord-vinayak/cpp-sols/tree/master/0377-combination-sum-iv) |
 | [0399-evaluate-division](https://github.com/lord-vinayak/cpp-sols/tree/master/0399-evaluate-division) |
+| [0410-split-array-largest-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lord-vinayak/cpp-sols/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0463-island-perimeter](https://github.com/lord-vinayak/cpp-sols/tree/master/0463-island-perimeter) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0278-first-bad-version](https://github.com/lord-vinayak/cpp-sols/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/lord-vinayak/cpp-sols/tree/master/0354-russian-doll-envelopes) |
+| [0410-split-array-largest-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lord-vinayak/cpp-sols/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lord-vinayak/cpp-sols/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lord-vinayak/cpp-sols/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0322-coin-change](https://github.com/lord-vinayak/cpp-sols/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/lord-vinayak/cpp-sols/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/lord-vinayak/cpp-sols/tree/master/0377-combination-sum-iv) |
+| [0410-split-array-largest-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0516-longest-palindromic-subsequence) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/lord-vinayak/cpp-sols/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0410-split-array-largest-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/lord-vinayak/cpp-sols/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lord-vinayak/cpp-sols/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lord-vinayak/cpp-sols/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -507,6 +511,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0011-container-with-most-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/lord-vinayak/cpp-sols/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/lord-vinayak/cpp-sols/tree/master/0134-gas-station) |
+| [0410-split-array-largest-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0410-split-array-largest-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0780-max-chunks-to-make-sorted) |
 ## Memoization
 |  |
