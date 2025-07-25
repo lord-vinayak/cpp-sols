@@ -327,6 +327,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0747-min-cost-climbing-stairs](https://github.com/lord-vinayak/cpp-sols/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0780-max-chunks-to-make-sorted) |
 | [0881-loud-and-rich](https://github.com/lord-vinayak/cpp-sols/tree/master/0881-loud-and-rich) |
+| [0907-koko-eating-bananas](https://github.com/lord-vinayak/cpp-sols/tree/master/0907-koko-eating-bananas) |
 | [1025-minimum-cost-for-tickets](https://github.com/lord-vinayak/cpp-sols/tree/master/1025-minimum-cost-for-tickets) |
 | [1039-find-the-town-judge](https://github.com/lord-vinayak/cpp-sols/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lord-vinayak/cpp-sols/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0354-russian-doll-envelopes](https://github.com/lord-vinayak/cpp-sols/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lord-vinayak/cpp-sols/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0907-koko-eating-bananas](https://github.com/lord-vinayak/cpp-sols/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lord-vinayak/cpp-sols/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lord-vinayak/cpp-sols/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Dynamic Programming
