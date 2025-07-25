@@ -335,6 +335,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1130-last-stone-weight-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/1130-last-stone-weight-ii) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/lord-vinayak/cpp-sols/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/lord-vinayak/cpp-sols/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/lord-vinayak/cpp-sols/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lord-vinayak/cpp-sols/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2206-detonate-the-maximum-bombs](https://github.com/lord-vinayak/cpp-sols/tree/master/2206-detonate-the-maximum-bombs) |
 | [2358-number-of-ways-to-split-array](https://github.com/lord-vinayak/cpp-sols/tree/master/2358-number-of-ways-to-split-array) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lord-vinayak/cpp-sols/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/lord-vinayak/cpp-sols/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lord-vinayak/cpp-sols/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/lord-vinayak/cpp-sols/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lord-vinayak/cpp-sols/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Dynamic Programming
 |  |
