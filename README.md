@@ -386,6 +386,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0279-perfect-squares](https://github.com/lord-vinayak/cpp-sols/tree/master/0279-perfect-squares) |
 | [0372-super-pow](https://github.com/lord-vinayak/cpp-sols/tree/master/0372-super-pow) |
 | [0650-2-keys-keyboard](https://github.com/lord-vinayak/cpp-sols/tree/master/0650-2-keys-keyboard) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/lord-vinayak/cpp-sols/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0796-reaching-points](https://github.com/lord-vinayak/cpp-sols/tree/master/0796-reaching-points) |
 | [0826-soup-servings](https://github.com/lord-vinayak/cpp-sols/tree/master/0826-soup-servings) |
 | [1119-robot-bounded-in-circle](https://github.com/lord-vinayak/cpp-sols/tree/master/1119-robot-bounded-in-circle) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0300-longest-increasing-subsequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/lord-vinayak/cpp-sols/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0410-split-array-largest-sum) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/lord-vinayak/cpp-sols/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lord-vinayak/cpp-sols/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/lord-vinayak/cpp-sols/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lord-vinayak/cpp-sols/tree/master/1056-capacity-to-ship-packages-within-d-days) |
