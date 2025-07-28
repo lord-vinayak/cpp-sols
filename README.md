@@ -302,6 +302,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0128-longest-consecutive-sequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/lord-vinayak/cpp-sols/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/lord-vinayak/cpp-sols/tree/master/0134-gas-station) |
+| [0162-find-peak-element](https://github.com/lord-vinayak/cpp-sols/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/lord-vinayak/cpp-sols/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/lord-vinayak/cpp-sols/tree/master/0200-number-of-islands) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0004-median-of-two-sorted-arrays](https://github.com/lord-vinayak/cpp-sols/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/lord-vinayak/cpp-sols/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/lord-vinayak/cpp-sols/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/lord-vinayak/cpp-sols/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/lord-vinayak/cpp-sols/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0300-longest-increasing-subsequence) |
