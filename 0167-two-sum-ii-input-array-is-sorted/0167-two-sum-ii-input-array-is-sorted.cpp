@@ -1,11 +1,11 @@
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& numbers, int target) {
-        int lt=0, rt=numbers.size()-1;
-        while(numbers[lt]+numbers[rt]!=target){
-            if(numbers[lt]+numbers[rt]<target) lt++;
-            else rt--;
+    vector<int> twoSum(vector<int>& nums, int target) {
+        int lo = 0, hi = nums.size()-1;
+        while(nums[lo]+nums[hi]!=target){
+            if(nums[lo]+nums[hi]<target) lo++;
+            else hi--;
         }
-        return vector<int>({lt+1,rt+1});
+        return {lo+1, hi+1};
     }
 };
