@@ -240,6 +240,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0011-container-with-most-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/lord-vinayak/cpp-sols/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/lord-vinayak/cpp-sols/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/lord-vinayak/cpp-sols/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0011-container-with-most-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/lord-vinayak/cpp-sols/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/lord-vinayak/cpp-sols/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/lord-vinayak/cpp-sols/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/lord-vinayak/cpp-sols/tree/master/0049-group-anagrams) |
