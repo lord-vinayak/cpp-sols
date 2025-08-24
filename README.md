@@ -341,6 +341,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0881-loud-and-rich](https://github.com/lord-vinayak/cpp-sols/tree/master/0881-loud-and-rich) |
 | [0907-koko-eating-bananas](https://github.com/lord-vinayak/cpp-sols/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/lord-vinayak/cpp-sols/tree/master/0917-boats-to-save-people) |
+| [0993-tallest-billboard](https://github.com/lord-vinayak/cpp-sols/tree/master/0993-tallest-billboard) |
 | [1025-minimum-cost-for-tickets](https://github.com/lord-vinayak/cpp-sols/tree/master/1025-minimum-cost-for-tickets) |
 | [1039-find-the-town-judge](https://github.com/lord-vinayak/cpp-sols/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lord-vinayak/cpp-sols/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0806-domino-and-tromino-tiling](https://github.com/lord-vinayak/cpp-sols/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/lord-vinayak/cpp-sols/tree/master/0826-soup-servings) |
 | [0972-knight-dialer](https://github.com/lord-vinayak/cpp-sols/tree/master/0972-knight-dialer) |
+| [0993-tallest-billboard](https://github.com/lord-vinayak/cpp-sols/tree/master/0993-tallest-billboard) |
 | [1025-minimum-cost-for-tickets](https://github.com/lord-vinayak/cpp-sols/tree/master/1025-minimum-cost-for-tickets) |
 | [1105-uncrossed-lines](https://github.com/lord-vinayak/cpp-sols/tree/master/1105-uncrossed-lines) |
 | [1130-last-stone-weight-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/1130-last-stone-weight-ii) |
