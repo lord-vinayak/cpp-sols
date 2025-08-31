@@ -260,6 +260,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0049-group-anagrams](https://github.com/lord-vinayak/cpp-sols/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/lord-vinayak/cpp-sols/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/lord-vinayak/cpp-sols/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/lord-vinayak/cpp-sols/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/lord-vinayak/cpp-sols/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/lord-vinayak/cpp-sols/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/lord-vinayak/cpp-sols/tree/master/0242-valid-anagram) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0070-climbing-stairs](https://github.com/lord-vinayak/cpp-sols/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/lord-vinayak/cpp-sols/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/lord-vinayak/cpp-sols/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/lord-vinayak/cpp-sols/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/lord-vinayak/cpp-sols/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lord-vinayak/cpp-sols/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0124-binary-tree-maximum-path-sum) |
