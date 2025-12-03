@@ -248,6 +248,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0344-reverse-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/lord-vinayak/cpp-sols/tree/master/0443-string-compression) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/lord-vinayak/cpp-sols/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0680-valid-palindrome-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lord-vinayak/cpp-sols/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 ## Linked List
 |  |
 | ------- |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/lord-vinayak/cpp-sols/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/lord-vinayak/cpp-sols/tree/master/0725-split-linked-list-in-parts) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lord-vinayak/cpp-sols/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
