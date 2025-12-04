@@ -562,6 +562,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/lord-vinayak/cpp-sols/tree/master/0206-reverse-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/lord-vinayak/cpp-sols/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/lord-vinayak/cpp-sols/tree/master/0725-split-linked-list-in-parts) |
