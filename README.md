@@ -193,6 +193,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/lord-vinayak/cpp-sols/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/lord-vinayak/cpp-sols/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/lord-vinayak/cpp-sols/tree/master/0744-network-delay-time) |
 ## Shortest Path
@@ -292,6 +293,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/lord-vinayak/cpp-sols/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/lord-vinayak/cpp-sols/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0567-permutation-in-string) |
 ## Array
@@ -321,6 +323,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0213-house-robber-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/lord-vinayak/cpp-sols/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/lord-vinayak/cpp-sols/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/lord-vinayak/cpp-sols/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/lord-vinayak/cpp-sols/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/lord-vinayak/cpp-sols/tree/master/0322-coin-change) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/lord-vinayak/cpp-sols/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0387-first-unique-character-in-a-string) |
 ## Interactive
 |  |
@@ -599,4 +603,8 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/lord-vinayak/cpp-sols/tree/master/0206-reverse-linked-list) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/lord-vinayak/cpp-sols/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
