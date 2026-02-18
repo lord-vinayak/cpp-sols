@@ -221,6 +221,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0049-group-anagrams](https://github.com/lord-vinayak/cpp-sols/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/lord-vinayak/cpp-sols/tree/master/0166-fraction-to-recurring-decimal) |
+| [0187-repeated-dna-sequences](https://github.com/lord-vinayak/cpp-sols/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/lord-vinayak/cpp-sols/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lord-vinayak/cpp-sols/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/lord-vinayak/cpp-sols/tree/master/0347-top-k-frequent-elements) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0115-distinct-subsequences](https://github.com/lord-vinayak/cpp-sols/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/lord-vinayak/cpp-sols/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/lord-vinayak/cpp-sols/tree/master/0166-fraction-to-recurring-decimal) |
+| [0187-repeated-dna-sequences](https://github.com/lord-vinayak/cpp-sols/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/lord-vinayak/cpp-sols/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0344-reverse-string) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/lord-vinayak/cpp-sols/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/lord-vinayak/cpp-sols/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/lord-vinayak/cpp-sols/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0567-permutation-in-string) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0078-subsets](https://github.com/lord-vinayak/cpp-sols/tree/master/0078-subsets) |
+| [0187-repeated-dna-sequences](https://github.com/lord-vinayak/cpp-sols/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/lord-vinayak/cpp-sols/tree/master/0389-find-the-difference) |
 | [0638-shopping-offers](https://github.com/lord-vinayak/cpp-sols/tree/master/0638-shopping-offers) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lord-vinayak/cpp-sols/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -607,4 +611,12 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/lord-vinayak/cpp-sols/tree/master/0239-sliding-window-maximum) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/lord-vinayak/cpp-sols/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/lord-vinayak/cpp-sols/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
