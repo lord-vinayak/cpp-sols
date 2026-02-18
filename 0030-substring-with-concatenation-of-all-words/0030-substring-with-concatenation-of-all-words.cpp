@@ -20,18 +20,19 @@ public:
             int j = i;
             int count = 0;
             while(j<s.size()){
-                if(mp.find(s.substr(j,a))==mp.end()){
+                string str = s.substr(j,a);
+                if(mp.find(str)==mp.end()){
                     m.clear();
                     count = 0;
                     j+=a;
                     i=j;
                 }
-                else if(mp[s.substr(j,a)]>m[s.substr(j,a)]){
-                    m[s.substr(j,a)]++;
+                else if(mp[str]>m[str]){
+                    m[str]++;
                     count++;
                     j+=a;
                 }
-                else if (m[s.substr(j,a)]==mp[s.substr(j,a)])
+                else if (m[str]==mp[str])
                 {
                     m[s.substr(i,a)]--;
                     i+=a;
