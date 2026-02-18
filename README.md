@@ -229,6 +229,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0387-first-unique-character-in-a-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/lord-vinayak/cpp-sols/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/lord-vinayak/cpp-sols/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lord-vinayak/cpp-sols/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/lord-vinayak/cpp-sols/tree/master/0721-accounts-merge) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0389-find-the-difference](https://github.com/lord-vinayak/cpp-sols/tree/master/0389-find-the-difference) |
 | [0399-evaluate-division](https://github.com/lord-vinayak/cpp-sols/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/lord-vinayak/cpp-sols/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/lord-vinayak/cpp-sols/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/lord-vinayak/cpp-sols/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0187-repeated-dna-sequences](https://github.com/lord-vinayak/cpp-sols/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/lord-vinayak/cpp-sols/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/lord-vinayak/cpp-sols/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
