@@ -218,6 +218,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | ------- |
 | [0001-two-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/lord-vinayak/cpp-sols/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/lord-vinayak/cpp-sols/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/lord-vinayak/cpp-sols/tree/master/0166-fraction-to-recurring-decimal) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/lord-vinayak/cpp-sols/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/lord-vinayak/cpp-sols/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/lord-vinayak/cpp-sols/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/lord-vinayak/cpp-sols/tree/master/0091-decode-ways) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/lord-vinayak/cpp-sols/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/lord-vinayak/cpp-sols/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/lord-vinayak/cpp-sols/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/lord-vinayak/cpp-sols/tree/master/0424-longest-repeating-character-replacement) |
