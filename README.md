@@ -305,6 +305,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0424-longest-repeating-character-replacement](https://github.com/lord-vinayak/cpp-sols/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/lord-vinayak/cpp-sols/tree/master/0643-maximum-average-subarray-i) |
 ## Array
 |  |
 | ------- |
@@ -346,6 +347,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0463-island-perimeter](https://github.com/lord-vinayak/cpp-sols/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0494-target-sum) |
 | [0638-shopping-offers](https://github.com/lord-vinayak/cpp-sols/tree/master/0638-shopping-offers) |
+| [0643-maximum-average-subarray-i](https://github.com/lord-vinayak/cpp-sols/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lord-vinayak/cpp-sols/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/lord-vinayak/cpp-sols/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/lord-vinayak/cpp-sols/tree/master/0733-flood-fill) |
