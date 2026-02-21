@@ -306,6 +306,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0438-find-all-anagrams-in-a-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/lord-vinayak/cpp-sols/tree/master/0643-maximum-average-subarray-i) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/lord-vinayak/cpp-sols/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 ## Array
 |  |
 | ------- |
@@ -360,6 +361,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0917-boats-to-save-people](https://github.com/lord-vinayak/cpp-sols/tree/master/0917-boats-to-save-people) |
 | [0993-tallest-billboard](https://github.com/lord-vinayak/cpp-sols/tree/master/0993-tallest-billboard) |
 | [1025-minimum-cost-for-tickets](https://github.com/lord-vinayak/cpp-sols/tree/master/1025-minimum-cost-for-tickets) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/lord-vinayak/cpp-sols/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1039-find-the-town-judge](https://github.com/lord-vinayak/cpp-sols/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lord-vinayak/cpp-sols/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1105-uncrossed-lines](https://github.com/lord-vinayak/cpp-sols/tree/master/1105-uncrossed-lines) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/lord-vinayak/cpp-sols/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0410-split-array-largest-sum) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/lord-vinayak/cpp-sols/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/lord-vinayak/cpp-sols/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lord-vinayak/cpp-sols/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lord-vinayak/cpp-sols/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0187-repeated-dna-sequences](https://github.com/lord-vinayak/cpp-sols/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/lord-vinayak/cpp-sols/tree/master/0389-find-the-difference) |
 | [0638-shopping-offers](https://github.com/lord-vinayak/cpp-sols/tree/master/0638-shopping-offers) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/lord-vinayak/cpp-sols/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lord-vinayak/cpp-sols/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Divide and Conquer
 |  |
@@ -607,6 +611,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/lord-vinayak/cpp-sols/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0387-first-unique-character-in-a-string) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/lord-vinayak/cpp-sols/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 ## Interactive
 |  |
 | ------- |
