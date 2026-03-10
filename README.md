@@ -257,6 +257,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0567-permutation-in-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0680-valid-palindrome-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lord-vinayak/cpp-sols/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/lord-vinayak/cpp-sols/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0874-backspace-string-compare](https://github.com/lord-vinayak/cpp-sols/tree/master/0874-backspace-string-compare) |
 | [0917-boats-to-save-people](https://github.com/lord-vinayak/cpp-sols/tree/master/0917-boats-to-save-people) |
 ## String
@@ -366,6 +367,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lord-vinayak/cpp-sols/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/lord-vinayak/cpp-sols/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0780-max-chunks-to-make-sorted) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/lord-vinayak/cpp-sols/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0881-loud-and-rich](https://github.com/lord-vinayak/cpp-sols/tree/master/0881-loud-and-rich) |
 | [0907-koko-eating-bananas](https://github.com/lord-vinayak/cpp-sols/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/lord-vinayak/cpp-sols/tree/master/0917-boats-to-save-people) |
