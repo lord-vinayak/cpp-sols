@@ -238,6 +238,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0940-fruit-into-baskets](https://github.com/lord-vinayak/cpp-sols/tree/master/0940-fruit-into-baskets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lord-vinayak/cpp-sols/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/lord-vinayak/cpp-sols/tree/master/1039-find-the-town-judge) |
+| [1370-count-number-of-nice-subarrays](https://github.com/lord-vinayak/cpp-sols/tree/master/1370-count-number-of-nice-subarrays) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lord-vinayak/cpp-sols/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lord-vinayak/cpp-sols/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0643-maximum-average-subarray-i](https://github.com/lord-vinayak/cpp-sols/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/lord-vinayak/cpp-sols/tree/master/0940-fruit-into-baskets) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/lord-vinayak/cpp-sols/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1370-count-number-of-nice-subarrays](https://github.com/lord-vinayak/cpp-sols/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/lord-vinayak/cpp-sols/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lord-vinayak/cpp-sols/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/lord-vinayak/cpp-sols/tree/master/1755-defuse-the-bomb) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1105-uncrossed-lines](https://github.com/lord-vinayak/cpp-sols/tree/master/1105-uncrossed-lines) |
 | [1130-last-stone-weight-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/1130-last-stone-weight-ii) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/lord-vinayak/cpp-sols/tree/master/1367-maximum-height-by-stacking-cuboids) |
+| [1370-count-number-of-nice-subarrays](https://github.com/lord-vinayak/cpp-sols/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/lord-vinayak/cpp-sols/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lord-vinayak/cpp-sols/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/lord-vinayak/cpp-sols/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0796-reaching-points](https://github.com/lord-vinayak/cpp-sols/tree/master/0796-reaching-points) |
 | [0826-soup-servings](https://github.com/lord-vinayak/cpp-sols/tree/master/0826-soup-servings) |
 | [1119-robot-bounded-in-circle](https://github.com/lord-vinayak/cpp-sols/tree/master/1119-robot-bounded-in-circle) |
+| [1370-count-number-of-nice-subarrays](https://github.com/lord-vinayak/cpp-sols/tree/master/1370-count-number-of-nice-subarrays) |
 | [2206-detonate-the-maximum-bombs](https://github.com/lord-vinayak/cpp-sols/tree/master/2206-detonate-the-maximum-bombs) |
 | [2645-pass-the-pillow](https://github.com/lord-vinayak/cpp-sols/tree/master/2645-pass-the-pillow) |
 | [2812-find-the-maximum-achievable-number](https://github.com/lord-vinayak/cpp-sols/tree/master/2812-find-the-maximum-achievable-number) |
@@ -543,6 +547,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0238-product-of-array-except-self](https://github.com/lord-vinayak/cpp-sols/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0410-split-array-largest-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/lord-vinayak/cpp-sols/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1370-count-number-of-nice-subarrays](https://github.com/lord-vinayak/cpp-sols/tree/master/1370-count-number-of-nice-subarrays) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/lord-vinayak/cpp-sols/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lord-vinayak/cpp-sols/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lord-vinayak/cpp-sols/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
