@@ -272,6 +272,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lord-vinayak/cpp-sols/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/lord-vinayak/cpp-sols/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/lord-vinayak/cpp-sols/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/lord-vinayak/cpp-sols/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/lord-vinayak/cpp-sols/tree/master/0072-edit-distance) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lord-vinayak/cpp-sols/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/lord-vinayak/cpp-sols/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/lord-vinayak/cpp-sols/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0113-path-sum-ii) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lord-vinayak/cpp-sols/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/lord-vinayak/cpp-sols/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/0062-unique-paths) |
