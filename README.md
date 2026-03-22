@@ -444,6 +444,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lord-vinayak/cpp-sols/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/lord-vinayak/cpp-sols/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/lord-vinayak/cpp-sols/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/lord-vinayak/cpp-sols/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/0257-binary-tree-paths) |
