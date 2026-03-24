@@ -344,6 +344,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0035-search-insert-position](https://github.com/lord-vinayak/cpp-sols/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/lord-vinayak/cpp-sols/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/lord-vinayak/cpp-sols/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0064-minimum-path-sum) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | ------- |
 | [0022-generate-parentheses](https://github.com/lord-vinayak/cpp-sols/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lord-vinayak/cpp-sols/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0064-minimum-path-sum) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lord-vinayak/cpp-sols/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/lord-vinayak/cpp-sols/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0410-split-array-largest-sum) |
