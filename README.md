@@ -369,6 +369,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0322-coin-change](https://github.com/lord-vinayak/cpp-sols/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/lord-vinayak/cpp-sols/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/lord-vinayak/cpp-sols/tree/master/0354-russian-doll-envelopes) |
+| [0376-wiggle-subsequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/lord-vinayak/cpp-sols/tree/master/0377-combination-sum-iv) |
 | [0399-evaluate-division](https://github.com/lord-vinayak/cpp-sols/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0410-split-array-largest-sum) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0312-burst-balloons](https://github.com/lord-vinayak/cpp-sols/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/lord-vinayak/cpp-sols/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/lord-vinayak/cpp-sols/tree/master/0354-russian-doll-envelopes) |
+| [0376-wiggle-subsequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/lord-vinayak/cpp-sols/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0416-partition-equal-subset-sum) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0055-jump-game](https://github.com/lord-vinayak/cpp-sols/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/lord-vinayak/cpp-sols/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/lord-vinayak/cpp-sols/tree/master/0135-candy) |
+| [0376-wiggle-subsequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0680-valid-palindrome-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0780-max-chunks-to-make-sorted) |
