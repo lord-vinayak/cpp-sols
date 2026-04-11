@@ -301,6 +301,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0721-accounts-merge](https://github.com/lord-vinayak/cpp-sols/tree/master/0721-accounts-merge) |
 | [0874-backspace-string-compare](https://github.com/lord-vinayak/cpp-sols/tree/master/0874-backspace-string-compare) |
 | [1119-robot-bounded-in-circle](https://github.com/lord-vinayak/cpp-sols/tree/master/1119-robot-bounded-in-circle) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1205-defanging-an-ip-address](https://github.com/lord-vinayak/cpp-sols/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/lord-vinayak/cpp-sols/tree/master/1250-longest-common-subsequence) |
 | [1321-get-equal-substrings-within-budget](https://github.com/lord-vinayak/cpp-sols/tree/master/1321-get-equal-substrings-within-budget) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0042-trapping-rain-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0042-trapping-rain-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/lord-vinayak/cpp-sols/tree/master/0874-backspace-string-compare) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/lord-vinayak/cpp-sols/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
@@ -577,6 +579,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0042-trapping-rain-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0780-max-chunks-to-make-sorted) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/lord-vinayak/cpp-sols/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Prefix Sum
@@ -639,6 +642,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0780-max-chunks-to-make-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0780-max-chunks-to-make-sorted) |
 | [0917-boats-to-save-people](https://github.com/lord-vinayak/cpp-sols/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/lord-vinayak/cpp-sols/tree/master/0985-bag-of-tokens) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/lord-vinayak/cpp-sols/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Memoization
 |  |
