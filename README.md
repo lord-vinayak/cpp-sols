@@ -483,6 +483,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0650-2-keys-keyboard](https://github.com/lord-vinayak/cpp-sols/tree/master/0650-2-keys-keyboard) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/lord-vinayak/cpp-sols/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0796-reaching-points](https://github.com/lord-vinayak/cpp-sols/tree/master/0796-reaching-points) |
+| [0804-rotated-digits](https://github.com/lord-vinayak/cpp-sols/tree/master/0804-rotated-digits) |
 | [0826-soup-servings](https://github.com/lord-vinayak/cpp-sols/tree/master/0826-soup-servings) |
 | [1119-robot-bounded-in-circle](https://github.com/lord-vinayak/cpp-sols/tree/master/1119-robot-bounded-in-circle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/lord-vinayak/cpp-sols/tree/master/1370-count-number-of-nice-subarrays) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0650-2-keys-keyboard](https://github.com/lord-vinayak/cpp-sols/tree/master/0650-2-keys-keyboard) |
 | [0740-delete-and-earn](https://github.com/lord-vinayak/cpp-sols/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/lord-vinayak/cpp-sols/tree/master/0747-min-cost-climbing-stairs) |
+| [0804-rotated-digits](https://github.com/lord-vinayak/cpp-sols/tree/master/0804-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/lord-vinayak/cpp-sols/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/lord-vinayak/cpp-sols/tree/master/0826-soup-servings) |
 | [0972-knight-dialer](https://github.com/lord-vinayak/cpp-sols/tree/master/0972-knight-dialer) |
