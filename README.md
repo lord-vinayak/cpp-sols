@@ -244,6 +244,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1370-count-number-of-nice-subarrays](https://github.com/lord-vinayak/cpp-sols/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2044-number-of-wonderful-substrings](https://github.com/lord-vinayak/cpp-sols/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lord-vinayak/cpp-sols/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lord-vinayak/cpp-sols/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -313,6 +314,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1537-maximum-score-after-splitting-a-string](https://github.com/lord-vinayak/cpp-sols/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1797-goal-parser-interpretation](https://github.com/lord-vinayak/cpp-sols/tree/master/1797-goal-parser-interpretation) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2044-number-of-wonderful-substrings](https://github.com/lord-vinayak/cpp-sols/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lord-vinayak/cpp-sols/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lord-vinayak/cpp-sols/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1537-maximum-score-after-splitting-a-string](https://github.com/lord-vinayak/cpp-sols/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lord-vinayak/cpp-sols/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lord-vinayak/cpp-sols/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2044-number-of-wonderful-substrings](https://github.com/lord-vinayak/cpp-sols/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lord-vinayak/cpp-sols/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/lord-vinayak/cpp-sols/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/2465-shifting-letters-ii) |
@@ -618,6 +621,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0389-find-the-difference](https://github.com/lord-vinayak/cpp-sols/tree/master/0389-find-the-difference) |
 | [0638-shopping-offers](https://github.com/lord-vinayak/cpp-sols/tree/master/0638-shopping-offers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/lord-vinayak/cpp-sols/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [2044-number-of-wonderful-substrings](https://github.com/lord-vinayak/cpp-sols/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lord-vinayak/cpp-sols/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Divide and Conquer
 |  |
