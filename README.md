@@ -225,6 +225,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0128-longest-consecutive-sequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/lord-vinayak/cpp-sols/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/lord-vinayak/cpp-sols/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/lord-vinayak/cpp-sols/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/lord-vinayak/cpp-sols/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lord-vinayak/cpp-sols/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/lord-vinayak/cpp-sols/tree/master/0347-top-k-frequent-elements) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0125-valid-palindrome](https://github.com/lord-vinayak/cpp-sols/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/lord-vinayak/cpp-sols/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/lord-vinayak/cpp-sols/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/lord-vinayak/cpp-sols/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/lord-vinayak/cpp-sols/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/lord-vinayak/cpp-sols/tree/master/0316-remove-duplicate-letters) |
