@@ -239,6 +239,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0721-accounts-merge](https://github.com/lord-vinayak/cpp-sols/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/lord-vinayak/cpp-sols/tree/master/0740-delete-and-earn) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0926-find-and-replace-pattern](https://github.com/lord-vinayak/cpp-sols/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/lord-vinayak/cpp-sols/tree/master/0940-fruit-into-baskets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lord-vinayak/cpp-sols/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/lord-vinayak/cpp-sols/tree/master/1039-find-the-town-judge) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0680-valid-palindrome-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/lord-vinayak/cpp-sols/tree/master/0721-accounts-merge) |
 | [0874-backspace-string-compare](https://github.com/lord-vinayak/cpp-sols/tree/master/0874-backspace-string-compare) |
+| [0926-find-and-replace-pattern](https://github.com/lord-vinayak/cpp-sols/tree/master/0926-find-and-replace-pattern) |
 | [1119-robot-bounded-in-circle](https://github.com/lord-vinayak/cpp-sols/tree/master/1119-robot-bounded-in-circle) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1205-defanging-an-ip-address](https://github.com/lord-vinayak/cpp-sols/tree/master/1205-defanging-an-ip-address) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0881-loud-and-rich](https://github.com/lord-vinayak/cpp-sols/tree/master/0881-loud-and-rich) |
 | [0907-koko-eating-bananas](https://github.com/lord-vinayak/cpp-sols/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/lord-vinayak/cpp-sols/tree/master/0917-boats-to-save-people) |
+| [0926-find-and-replace-pattern](https://github.com/lord-vinayak/cpp-sols/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/lord-vinayak/cpp-sols/tree/master/0940-fruit-into-baskets) |
 | [0985-bag-of-tokens](https://github.com/lord-vinayak/cpp-sols/tree/master/0985-bag-of-tokens) |
 | [0993-tallest-billboard](https://github.com/lord-vinayak/cpp-sols/tree/master/0993-tallest-billboard) |
