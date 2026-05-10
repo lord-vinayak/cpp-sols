@@ -174,6 +174,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1757-minimum-jumps-to-reach-home](https://github.com/lord-vinayak/cpp-sols/tree/master/1757-minimum-jumps-to-reach-home) |
 | [2206-detonate-the-maximum-bombs](https://github.com/lord-vinayak/cpp-sols/tree/master/2206-detonate-the-maximum-bombs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0621-task-scheduler](https://github.com/lord-vinayak/cpp-sols/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/lord-vinayak/cpp-sols/tree/master/0744-network-delay-time) |
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
@@ -437,6 +439,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2358-number-of-ways-to-split-array](https://github.com/lord-vinayak/cpp-sols/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lord-vinayak/cpp-sols/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/lord-vinayak/cpp-sols/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lord-vinayak/cpp-sols/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0463-island-perimeter](https://github.com/lord-vinayak/cpp-sols/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/lord-vinayak/cpp-sols/tree/master/0733-flood-fill) |
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -541,6 +545,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lord-vinayak/cpp-sols/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/lord-vinayak/cpp-sols/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Dynamic Programming
@@ -753,4 +758,5 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
