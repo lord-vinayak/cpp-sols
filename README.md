@@ -438,6 +438,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2211-k-radius-subarray-averages](https://github.com/lord-vinayak/cpp-sols/tree/master/2211-k-radius-subarray-averages) |
 | [2358-number-of-ways-to-split-array](https://github.com/lord-vinayak/cpp-sols/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/2465-shifting-letters-ii) |
+| [2682-count-increasing-quadruplets](https://github.com/lord-vinayak/cpp-sols/tree/master/2682-count-increasing-quadruplets) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lord-vinayak/cpp-sols/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/lord-vinayak/cpp-sols/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/lord-vinayak/cpp-sols/tree/master/1757-minimum-jumps-to-reach-home) |
+| [2682-count-increasing-quadruplets](https://github.com/lord-vinayak/cpp-sols/tree/master/2682-count-increasing-quadruplets) |
 ## Stack
 |  |
 | ------- |
@@ -630,6 +632,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lord-vinayak/cpp-sols/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/lord-vinayak/cpp-sols/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/2465-shifting-letters-ii) |
+| [2682-count-increasing-quadruplets](https://github.com/lord-vinayak/cpp-sols/tree/master/2682-count-increasing-quadruplets) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lord-vinayak/cpp-sols/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Bit Manipulation
 |  |
@@ -753,10 +756,15 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 ## Enumeration
 |  |
 | ------- |
+| [2682-count-increasing-quadruplets](https://github.com/lord-vinayak/cpp-sols/tree/master/2682-count-increasing-quadruplets) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/lord-vinayak/cpp-sols/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Union-Find
 |  |
 | ------- |
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2682-count-increasing-quadruplets](https://github.com/lord-vinayak/cpp-sols/tree/master/2682-count-increasing-quadruplets) |
 <!---LeetCode Topics End-->
