@@ -280,6 +280,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/lord-vinayak/cpp-sols/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [4079-maximum-capacity-within-budget](https://github.com/lord-vinayak/cpp-sols/tree/master/4079-maximum-capacity-within-budget) |
 ## String
 |  |
 | ------- |
@@ -445,6 +446,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/lord-vinayak/cpp-sols/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lord-vinayak/cpp-sols/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/lord-vinayak/cpp-sols/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [4079-maximum-capacity-within-budget](https://github.com/lord-vinayak/cpp-sols/tree/master/4079-maximum-capacity-within-budget) |
 ## Sorting
 |  |
 | ------- |
@@ -464,6 +466,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0917-boats-to-save-people](https://github.com/lord-vinayak/cpp-sols/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/lord-vinayak/cpp-sols/tree/master/0985-bag-of-tokens) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/lord-vinayak/cpp-sols/tree/master/1367-maximum-height-by-stacking-cuboids) |
+| [4079-maximum-capacity-within-budget](https://github.com/lord-vinayak/cpp-sols/tree/master/4079-maximum-capacity-within-budget) |
 ## Topological Sort
 |  |
 | ------- |
@@ -549,6 +552,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/lord-vinayak/cpp-sols/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [4079-maximum-capacity-within-budget](https://github.com/lord-vinayak/cpp-sols/tree/master/4079-maximum-capacity-within-budget) |
 ## Dynamic Programming
 |  |
 | ------- |
