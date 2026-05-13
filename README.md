@@ -505,6 +505,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0796-reaching-points](https://github.com/lord-vinayak/cpp-sols/tree/master/0796-reaching-points) |
 | [0804-rotated-digits](https://github.com/lord-vinayak/cpp-sols/tree/master/0804-rotated-digits) |
 | [0826-soup-servings](https://github.com/lord-vinayak/cpp-sols/tree/master/0826-soup-servings) |
+| [0923-super-egg-drop](https://github.com/lord-vinayak/cpp-sols/tree/master/0923-super-egg-drop) |
 | [1119-robot-bounded-in-circle](https://github.com/lord-vinayak/cpp-sols/tree/master/1119-robot-bounded-in-circle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/lord-vinayak/cpp-sols/tree/master/1370-count-number-of-nice-subarrays) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/lord-vinayak/cpp-sols/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lord-vinayak/cpp-sols/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lord-vinayak/cpp-sols/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/lord-vinayak/cpp-sols/tree/master/0907-koko-eating-bananas) |
+| [0923-super-egg-drop](https://github.com/lord-vinayak/cpp-sols/tree/master/0923-super-egg-drop) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lord-vinayak/cpp-sols/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1321-get-equal-substrings-within-budget](https://github.com/lord-vinayak/cpp-sols/tree/master/1321-get-equal-substrings-within-budget) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/lord-vinayak/cpp-sols/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0804-rotated-digits](https://github.com/lord-vinayak/cpp-sols/tree/master/0804-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/lord-vinayak/cpp-sols/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/lord-vinayak/cpp-sols/tree/master/0826-soup-servings) |
+| [0923-super-egg-drop](https://github.com/lord-vinayak/cpp-sols/tree/master/0923-super-egg-drop) |
 | [0972-knight-dialer](https://github.com/lord-vinayak/cpp-sols/tree/master/0972-knight-dialer) |
 | [0993-tallest-billboard](https://github.com/lord-vinayak/cpp-sols/tree/master/0993-tallest-billboard) |
 | [1025-minimum-cost-for-tickets](https://github.com/lord-vinayak/cpp-sols/tree/master/1025-minimum-cost-for-tickets) |
