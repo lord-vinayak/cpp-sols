@@ -99,6 +99,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0721-accounts-merge](https://github.com/lord-vinayak/cpp-sols/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/lord-vinayak/cpp-sols/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/lord-vinayak/cpp-sols/tree/master/0744-network-delay-time) |
+| [0770-couples-holding-hands](https://github.com/lord-vinayak/cpp-sols/tree/master/0770-couples-holding-hands) |
 | [0801-is-graph-bipartite](https://github.com/lord-vinayak/cpp-sols/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/lord-vinayak/cpp-sols/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/lord-vinayak/cpp-sols/tree/master/0820-find-eventual-safe-states) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0721-accounts-merge](https://github.com/lord-vinayak/cpp-sols/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/lord-vinayak/cpp-sols/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/lord-vinayak/cpp-sols/tree/master/0744-network-delay-time) |
+| [0770-couples-holding-hands](https://github.com/lord-vinayak/cpp-sols/tree/master/0770-couples-holding-hands) |
 | [0801-is-graph-bipartite](https://github.com/lord-vinayak/cpp-sols/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/lord-vinayak/cpp-sols/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/lord-vinayak/cpp-sols/tree/master/0820-find-eventual-safe-states) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0455-assign-cookies](https://github.com/lord-vinayak/cpp-sols/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/lord-vinayak/cpp-sols/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0680-valid-palindrome-ii) |
+| [0770-couples-holding-hands](https://github.com/lord-vinayak/cpp-sols/tree/master/0770-couples-holding-hands) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0780-max-chunks-to-make-sorted) |
 | [0917-boats-to-save-people](https://github.com/lord-vinayak/cpp-sols/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/lord-vinayak/cpp-sols/tree/master/0985-bag-of-tokens) |
@@ -768,10 +771,15 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 ## Union-Find
 |  |
 | ------- |
+| [0770-couples-holding-hands](https://github.com/lord-vinayak/cpp-sols/tree/master/0770-couples-holding-hands) |
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [2682-count-increasing-quadruplets](https://github.com/lord-vinayak/cpp-sols/tree/master/2682-count-increasing-quadruplets) |
+## Graph Theory
+|  |
+| ------- |
+| [0770-couples-holding-hands](https://github.com/lord-vinayak/cpp-sols/tree/master/0770-couples-holding-hands) |
 <!---LeetCode Topics End-->
