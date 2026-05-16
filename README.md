@@ -414,6 +414,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0747-min-cost-climbing-stairs](https://github.com/lord-vinayak/cpp-sols/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0780-max-chunks-to-make-sorted) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/lord-vinayak/cpp-sols/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0821-bricks-falling-when-hit](https://github.com/lord-vinayak/cpp-sols/tree/master/0821-bricks-falling-when-hit) |
 | [0881-loud-and-rich](https://github.com/lord-vinayak/cpp-sols/tree/master/0881-loud-and-rich) |
 | [0907-koko-eating-bananas](https://github.com/lord-vinayak/cpp-sols/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/lord-vinayak/cpp-sols/tree/master/0917-boats-to-save-people) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0200-number-of-islands](https://github.com/lord-vinayak/cpp-sols/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/lord-vinayak/cpp-sols/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/lord-vinayak/cpp-sols/tree/master/0733-flood-fill) |
+| [0821-bricks-falling-when-hit](https://github.com/lord-vinayak/cpp-sols/tree/master/0821-bricks-falling-when-hit) |
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Binary Search
@@ -773,6 +775,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0770-couples-holding-hands](https://github.com/lord-vinayak/cpp-sols/tree/master/0770-couples-holding-hands) |
+| [0821-bricks-falling-when-hit](https://github.com/lord-vinayak/cpp-sols/tree/master/0821-bricks-falling-when-hit) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/lord-vinayak/cpp-sols/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
