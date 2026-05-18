@@ -319,6 +319,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0567-permutation-in-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/lord-vinayak/cpp-sols/tree/master/0721-accounts-merge) |
+| [0763-special-binary-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0763-special-binary-string) |
 | [0874-backspace-string-compare](https://github.com/lord-vinayak/cpp-sols/tree/master/0874-backspace-string-compare) |
 | [0926-find-and-replace-pattern](https://github.com/lord-vinayak/cpp-sols/tree/master/0926-find-and-replace-pattern) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/lord-vinayak/cpp-sols/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0621-task-scheduler](https://github.com/lord-vinayak/cpp-sols/tree/master/0621-task-scheduler) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lord-vinayak/cpp-sols/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/lord-vinayak/cpp-sols/tree/master/0721-accounts-merge) |
+| [0763-special-binary-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0763-special-binary-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0780-max-chunks-to-make-sorted) |
 | [0917-boats-to-save-people](https://github.com/lord-vinayak/cpp-sols/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/lord-vinayak/cpp-sols/tree/master/0985-bag-of-tokens) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0004-median-of-two-sorted-arrays](https://github.com/lord-vinayak/cpp-sols/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/lord-vinayak/cpp-sols/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/lord-vinayak/cpp-sols/tree/master/0372-super-pow) |
+| [0763-special-binary-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0763-special-binary-string) |
 ## Bucket Sort
 |  |
 | ------- |
