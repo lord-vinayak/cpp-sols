@@ -418,6 +418,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0740-delete-and-earn](https://github.com/lord-vinayak/cpp-sols/tree/master/0740-delete-and-earn) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lord-vinayak/cpp-sols/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/lord-vinayak/cpp-sols/tree/master/0747-min-cost-climbing-stairs) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0780-max-chunks-to-make-sorted) |
 | [0794-swim-in-rising-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0794-swim-in-rising-water) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/lord-vinayak/cpp-sols/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lord-vinayak/cpp-sols/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/lord-vinayak/cpp-sols/tree/master/0721-accounts-merge) |
 | [0763-special-binary-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0763-special-binary-string) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0780-max-chunks-to-make-sorted) |
 | [0917-boats-to-save-people](https://github.com/lord-vinayak/cpp-sols/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/lord-vinayak/cpp-sols/tree/master/0985-bag-of-tokens) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0042-trapping-rain-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/lord-vinayak/cpp-sols/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/lord-vinayak/cpp-sols/tree/master/0402-remove-k-digits) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/lord-vinayak/cpp-sols/tree/master/0874-backspace-string-compare) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -637,6 +640,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0042-trapping-rain-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/lord-vinayak/cpp-sols/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/lord-vinayak/cpp-sols/tree/master/0402-remove-k-digits) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0780-max-chunks-to-make-sorted) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/lord-vinayak/cpp-sols/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -708,6 +712,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0621-task-scheduler](https://github.com/lord-vinayak/cpp-sols/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0680-valid-palindrome-ii) |
 | [0770-couples-holding-hands](https://github.com/lord-vinayak/cpp-sols/tree/master/0770-couples-holding-hands) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0780-max-chunks-to-make-sorted) |
 | [0917-boats-to-save-people](https://github.com/lord-vinayak/cpp-sols/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/lord-vinayak/cpp-sols/tree/master/0985-bag-of-tokens) |
