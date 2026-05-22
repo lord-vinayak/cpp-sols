@@ -261,6 +261,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2044-number-of-wonderful-substrings](https://github.com/lord-vinayak/cpp-sols/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lord-vinayak/cpp-sols/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2833-count-zero-request-servers](https://github.com/lord-vinayak/cpp-sols/tree/master/2833-count-zero-request-servers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lord-vinayak/cpp-sols/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -361,6 +362,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1755-defuse-the-bomb](https://github.com/lord-vinayak/cpp-sols/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2211-k-radius-subarray-averages](https://github.com/lord-vinayak/cpp-sols/tree/master/2211-k-radius-subarray-averages) |
+| [2833-count-zero-request-servers](https://github.com/lord-vinayak/cpp-sols/tree/master/2833-count-zero-request-servers) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/lord-vinayak/cpp-sols/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Array
 |  |
@@ -454,6 +456,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2465-shifting-letters-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/2465-shifting-letters-ii) |
 | [2682-count-increasing-quadruplets](https://github.com/lord-vinayak/cpp-sols/tree/master/2682-count-increasing-quadruplets) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lord-vinayak/cpp-sols/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2833-count-zero-request-servers](https://github.com/lord-vinayak/cpp-sols/tree/master/2833-count-zero-request-servers) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/lord-vinayak/cpp-sols/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0917-boats-to-save-people](https://github.com/lord-vinayak/cpp-sols/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/lord-vinayak/cpp-sols/tree/master/0985-bag-of-tokens) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/lord-vinayak/cpp-sols/tree/master/1367-maximum-height-by-stacking-cuboids) |
+| [2833-count-zero-request-servers](https://github.com/lord-vinayak/cpp-sols/tree/master/2833-count-zero-request-servers) |
 | [4079-maximum-capacity-within-budget](https://github.com/lord-vinayak/cpp-sols/tree/master/4079-maximum-capacity-within-budget) |
 ## Topological Sort
 |  |
