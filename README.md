@@ -441,6 +441,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/lord-vinayak/cpp-sols/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1370-count-number-of-nice-subarrays](https://github.com/lord-vinayak/cpp-sols/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/lord-vinayak/cpp-sols/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1466-jump-game-v](https://github.com/lord-vinayak/cpp-sols/tree/master/1466-jump-game-v) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lord-vinayak/cpp-sols/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/lord-vinayak/cpp-sols/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/lord-vinayak/cpp-sols/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0917-boats-to-save-people](https://github.com/lord-vinayak/cpp-sols/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/lord-vinayak/cpp-sols/tree/master/0985-bag-of-tokens) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/lord-vinayak/cpp-sols/tree/master/1367-maximum-height-by-stacking-cuboids) |
+| [1466-jump-game-v](https://github.com/lord-vinayak/cpp-sols/tree/master/1466-jump-game-v) |
 | [2833-count-zero-request-servers](https://github.com/lord-vinayak/cpp-sols/tree/master/2833-count-zero-request-servers) |
 | [4079-maximum-capacity-within-budget](https://github.com/lord-vinayak/cpp-sols/tree/master/4079-maximum-capacity-within-budget) |
 ## Topological Sort
@@ -624,6 +626,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1250-longest-common-subsequence](https://github.com/lord-vinayak/cpp-sols/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/lord-vinayak/cpp-sols/tree/master/1367-maximum-height-by-stacking-cuboids) |
+| [1466-jump-game-v](https://github.com/lord-vinayak/cpp-sols/tree/master/1466-jump-game-v) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/lord-vinayak/cpp-sols/tree/master/1757-minimum-jumps-to-reach-home) |
 | [2682-count-increasing-quadruplets](https://github.com/lord-vinayak/cpp-sols/tree/master/2682-count-increasing-quadruplets) |
 ## Stack
