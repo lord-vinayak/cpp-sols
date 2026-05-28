@@ -277,6 +277,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0345-reverse-vowels-of-a-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/lord-vinayak/cpp-sols/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/lord-vinayak/cpp-sols/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/lord-vinayak/cpp-sols/tree/master/0475-heaters) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/lord-vinayak/cpp-sols/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0680-valid-palindrome-ii) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0442-find-all-duplicates-in-an-array](https://github.com/lord-vinayak/cpp-sols/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/lord-vinayak/cpp-sols/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/lord-vinayak/cpp-sols/tree/master/0463-island-perimeter) |
+| [0475-heaters](https://github.com/lord-vinayak/cpp-sols/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/lord-vinayak/cpp-sols/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0494-target-sum) |
 | [0621-task-scheduler](https://github.com/lord-vinayak/cpp-sols/tree/master/0621-task-scheduler) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0354-russian-doll-envelopes](https://github.com/lord-vinayak/cpp-sols/tree/master/0354-russian-doll-envelopes) |
 | [0389-find-the-difference](https://github.com/lord-vinayak/cpp-sols/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/lord-vinayak/cpp-sols/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/lord-vinayak/cpp-sols/tree/master/0475-heaters) |
 | [0621-task-scheduler](https://github.com/lord-vinayak/cpp-sols/tree/master/0621-task-scheduler) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lord-vinayak/cpp-sols/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/lord-vinayak/cpp-sols/tree/master/0721-accounts-merge) |
@@ -566,6 +569,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0300-longest-increasing-subsequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/lord-vinayak/cpp-sols/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0410-split-array-largest-sum) |
+| [0475-heaters](https://github.com/lord-vinayak/cpp-sols/tree/master/0475-heaters) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/lord-vinayak/cpp-sols/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lord-vinayak/cpp-sols/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lord-vinayak/cpp-sols/tree/master/0745-find-smallest-letter-greater-than-target) |
