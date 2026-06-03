@@ -68,6 +68,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1450-delete-leaves-with-a-given-value](https://github.com/lord-vinayak/cpp-sols/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2597-cycle-length-queries-in-a-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/2597-cycle-length-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1450-delete-leaves-with-a-given-value](https://github.com/lord-vinayak/cpp-sols/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2597-cycle-length-queries-in-a-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/2597-cycle-length-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -462,6 +464,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2211-k-radius-subarray-averages](https://github.com/lord-vinayak/cpp-sols/tree/master/2211-k-radius-subarray-averages) |
 | [2358-number-of-ways-to-split-array](https://github.com/lord-vinayak/cpp-sols/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/2465-shifting-letters-ii) |
+| [2597-cycle-length-queries-in-a-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [2682-count-increasing-quadruplets](https://github.com/lord-vinayak/cpp-sols/tree/master/2682-count-increasing-quadruplets) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lord-vinayak/cpp-sols/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2833-count-zero-request-servers](https://github.com/lord-vinayak/cpp-sols/tree/master/2833-count-zero-request-servers) |
