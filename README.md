@@ -458,6 +458,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/lord-vinayak/cpp-sols/tree/master/1755-defuse-the-bomb) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/lord-vinayak/cpp-sols/tree/master/1757-minimum-jumps-to-reach-home) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/lord-vinayak/cpp-sols/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lord-vinayak/cpp-sols/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/lord-vinayak/cpp-sols/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2206-detonate-the-maximum-bombs](https://github.com/lord-vinayak/cpp-sols/tree/master/2206-detonate-the-maximum-bombs) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0494-target-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0494-target-sum) |
 | [0638-shopping-offers](https://github.com/lord-vinayak/cpp-sols/tree/master/0638-shopping-offers) |
 | [0813-all-paths-from-source-to-target](https://github.com/lord-vinayak/cpp-sols/tree/master/0813-all-paths-from-source-to-target) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/lord-vinayak/cpp-sols/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 ## Math
 |  |
 | ------- |
@@ -643,6 +645,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1466-jump-game-v](https://github.com/lord-vinayak/cpp-sols/tree/master/1466-jump-game-v) |
 | [1659-get-the-maximum-score](https://github.com/lord-vinayak/cpp-sols/tree/master/1659-get-the-maximum-score) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/lord-vinayak/cpp-sols/tree/master/1757-minimum-jumps-to-reach-home) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/lord-vinayak/cpp-sols/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [2682-count-increasing-quadruplets](https://github.com/lord-vinayak/cpp-sols/tree/master/2682-count-increasing-quadruplets) |
 ## Stack
 |  |
@@ -694,6 +697,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0389-find-the-difference](https://github.com/lord-vinayak/cpp-sols/tree/master/0389-find-the-difference) |
 | [0638-shopping-offers](https://github.com/lord-vinayak/cpp-sols/tree/master/0638-shopping-offers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/lord-vinayak/cpp-sols/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/lord-vinayak/cpp-sols/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [2044-number-of-wonderful-substrings](https://github.com/lord-vinayak/cpp-sols/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lord-vinayak/cpp-sols/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Divide and Conquer
@@ -783,6 +787,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0638-shopping-offers](https://github.com/lord-vinayak/cpp-sols/tree/master/0638-shopping-offers) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/lord-vinayak/cpp-sols/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 ## Queue
 |  |
 | ------- |
