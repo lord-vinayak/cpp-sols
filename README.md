@@ -543,6 +543,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1119-robot-bounded-in-circle](https://github.com/lord-vinayak/cpp-sols/tree/master/1119-robot-bounded-in-circle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/lord-vinayak/cpp-sols/tree/master/1370-count-number-of-nice-subarrays) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/lord-vinayak/cpp-sols/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
+| [2050-count-good-numbers](https://github.com/lord-vinayak/cpp-sols/tree/master/2050-count-good-numbers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/lord-vinayak/cpp-sols/tree/master/2206-detonate-the-maximum-bombs) |
 | [2645-pass-the-pillow](https://github.com/lord-vinayak/cpp-sols/tree/master/2645-pass-the-pillow) |
 | [2812-find-the-maximum-achievable-number](https://github.com/lord-vinayak/cpp-sols/tree/master/2812-find-the-maximum-achievable-number) |
@@ -802,6 +803,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/lord-vinayak/cpp-sols/tree/master/0206-reverse-linked-list) |
+| [2050-count-good-numbers](https://github.com/lord-vinayak/cpp-sols/tree/master/2050-count-good-numbers) |
 ## Monotonic Queue
 |  |
 | ------- |
