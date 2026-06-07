@@ -448,6 +448,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1130-last-stone-weight-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/1130-last-stone-weight-ii) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/lord-vinayak/cpp-sols/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1370-count-number-of-nice-subarrays](https://github.com/lord-vinayak/cpp-sols/tree/master/1370-count-number-of-nice-subarrays) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/lord-vinayak/cpp-sols/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/lord-vinayak/cpp-sols/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1466-jump-game-v](https://github.com/lord-vinayak/cpp-sols/tree/master/1466-jump-game-v) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lord-vinayak/cpp-sols/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0923-super-egg-drop](https://github.com/lord-vinayak/cpp-sols/tree/master/0923-super-egg-drop) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lord-vinayak/cpp-sols/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1321-get-equal-substrings-within-budget](https://github.com/lord-vinayak/cpp-sols/tree/master/1321-get-equal-substrings-within-budget) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/lord-vinayak/cpp-sols/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/lord-vinayak/cpp-sols/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
