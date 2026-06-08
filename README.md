@@ -335,6 +335,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1205-defanging-an-ip-address](https://github.com/lord-vinayak/cpp-sols/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/lord-vinayak/cpp-sols/tree/master/1250-longest-common-subsequence) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/lord-vinayak/cpp-sols/tree/master/1321-get-equal-substrings-within-budget) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/lord-vinayak/cpp-sols/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0780-max-chunks-to-make-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/lord-vinayak/cpp-sols/tree/master/0874-backspace-string-compare) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/lord-vinayak/cpp-sols/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
