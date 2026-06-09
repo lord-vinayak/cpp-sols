@@ -455,6 +455,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lord-vinayak/cpp-sols/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/lord-vinayak/cpp-sols/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/lord-vinayak/cpp-sols/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1657-find-the-winner-of-an-array-game](https://github.com/lord-vinayak/cpp-sols/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1659-get-the-maximum-score](https://github.com/lord-vinayak/cpp-sols/tree/master/1659-get-the-maximum-score) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
@@ -777,6 +778,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | ------- |
 | [0874-backspace-string-compare](https://github.com/lord-vinayak/cpp-sols/tree/master/0874-backspace-string-compare) |
 | [1119-robot-bounded-in-circle](https://github.com/lord-vinayak/cpp-sols/tree/master/1119-robot-bounded-in-circle) |
+| [1657-find-the-winner-of-an-array-game](https://github.com/lord-vinayak/cpp-sols/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lord-vinayak/cpp-sols/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2645-pass-the-pillow](https://github.com/lord-vinayak/cpp-sols/tree/master/2645-pass-the-pillow) |
 | [3625-stone-removal-game](https://github.com/lord-vinayak/cpp-sols/tree/master/3625-stone-removal-game) |
