@@ -439,6 +439,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0917-boats-to-save-people](https://github.com/lord-vinayak/cpp-sols/tree/master/0917-boats-to-save-people) |
 | [0926-find-and-replace-pattern](https://github.com/lord-vinayak/cpp-sols/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/lord-vinayak/cpp-sols/tree/master/0940-fruit-into-baskets) |
+| [0968-beautiful-array](https://github.com/lord-vinayak/cpp-sols/tree/master/0968-beautiful-array) |
 | [0985-bag-of-tokens](https://github.com/lord-vinayak/cpp-sols/tree/master/0985-bag-of-tokens) |
 | [0993-tallest-billboard](https://github.com/lord-vinayak/cpp-sols/tree/master/0993-tallest-billboard) |
 | [1025-minimum-cost-for-tickets](https://github.com/lord-vinayak/cpp-sols/tree/master/1025-minimum-cost-for-tickets) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0804-rotated-digits](https://github.com/lord-vinayak/cpp-sols/tree/master/0804-rotated-digits) |
 | [0826-soup-servings](https://github.com/lord-vinayak/cpp-sols/tree/master/0826-soup-servings) |
 | [0923-super-egg-drop](https://github.com/lord-vinayak/cpp-sols/tree/master/0923-super-egg-drop) |
+| [0968-beautiful-array](https://github.com/lord-vinayak/cpp-sols/tree/master/0968-beautiful-array) |
 | [1119-robot-bounded-in-circle](https://github.com/lord-vinayak/cpp-sols/tree/master/1119-robot-bounded-in-circle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/lord-vinayak/cpp-sols/tree/master/1370-count-number-of-nice-subarrays) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/lord-vinayak/cpp-sols/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0347-top-k-frequent-elements](https://github.com/lord-vinayak/cpp-sols/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/lord-vinayak/cpp-sols/tree/master/0372-super-pow) |
 | [0763-special-binary-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0763-special-binary-string) |
+| [0968-beautiful-array](https://github.com/lord-vinayak/cpp-sols/tree/master/0968-beautiful-array) |
 ## Bucket Sort
 |  |
 | ------- |
