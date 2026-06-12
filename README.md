@@ -480,6 +480,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/lord-vinayak/cpp-sols/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lord-vinayak/cpp-sols/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/lord-vinayak/cpp-sols/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/lord-vinayak/cpp-sols/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [4079-maximum-capacity-within-budget](https://github.com/lord-vinayak/cpp-sols/tree/master/4079-maximum-capacity-within-budget) |
 ## Sorting
 |  |
@@ -506,6 +507,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1466-jump-game-v](https://github.com/lord-vinayak/cpp-sols/tree/master/1466-jump-game-v) |
 | [2689-rearranging-fruits](https://github.com/lord-vinayak/cpp-sols/tree/master/2689-rearranging-fruits) |
 | [2833-count-zero-request-servers](https://github.com/lord-vinayak/cpp-sols/tree/master/2833-count-zero-request-servers) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/lord-vinayak/cpp-sols/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [4079-maximum-capacity-within-budget](https://github.com/lord-vinayak/cpp-sols/tree/master/4079-maximum-capacity-within-budget) |
 ## Topological Sort
 |  |
@@ -606,6 +608,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/lord-vinayak/cpp-sols/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/lord-vinayak/cpp-sols/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [4079-maximum-capacity-within-budget](https://github.com/lord-vinayak/cpp-sols/tree/master/4079-maximum-capacity-within-budget) |
 ## Dynamic Programming
 |  |
@@ -657,6 +660,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1757-minimum-jumps-to-reach-home](https://github.com/lord-vinayak/cpp-sols/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/lord-vinayak/cpp-sols/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [2682-count-increasing-quadruplets](https://github.com/lord-vinayak/cpp-sols/tree/master/2682-count-increasing-quadruplets) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/lord-vinayak/cpp-sols/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Stack
 |  |
 | ------- |
