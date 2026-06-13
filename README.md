@@ -451,6 +451,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1130-last-stone-weight-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/1130-last-stone-weight-ii) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/lord-vinayak/cpp-sols/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1370-count-number-of-nice-subarrays](https://github.com/lord-vinayak/cpp-sols/tree/master/1370-count-number-of-nice-subarrays) |
+| [1372-check-if-it-is-a-good-array](https://github.com/lord-vinayak/cpp-sols/tree/master/1372-check-if-it-is-a-good-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/lord-vinayak/cpp-sols/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/lord-vinayak/cpp-sols/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1466-jump-game-v](https://github.com/lord-vinayak/cpp-sols/tree/master/1466-jump-game-v) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0968-beautiful-array](https://github.com/lord-vinayak/cpp-sols/tree/master/0968-beautiful-array) |
 | [1119-robot-bounded-in-circle](https://github.com/lord-vinayak/cpp-sols/tree/master/1119-robot-bounded-in-circle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/lord-vinayak/cpp-sols/tree/master/1370-count-number-of-nice-subarrays) |
+| [1372-check-if-it-is-a-good-array](https://github.com/lord-vinayak/cpp-sols/tree/master/1372-check-if-it-is-a-good-array) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/lord-vinayak/cpp-sols/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [2050-count-good-numbers](https://github.com/lord-vinayak/cpp-sols/tree/master/2050-count-good-numbers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/lord-vinayak/cpp-sols/tree/master/2206-detonate-the-maximum-bombs) |
@@ -856,4 +858,8 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0770-couples-holding-hands](https://github.com/lord-vinayak/cpp-sols/tree/master/0770-couples-holding-hands) |
+## Number Theory
+|  |
+| ------- |
+| [1372-check-if-it-is-a-good-array](https://github.com/lord-vinayak/cpp-sols/tree/master/1372-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
