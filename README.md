@@ -210,6 +210,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0744-network-delay-time](https://github.com/lord-vinayak/cpp-sols/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/lord-vinayak/cpp-sols/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Shortest Path
 |  |
@@ -479,6 +480,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2682-count-increasing-quadruplets](https://github.com/lord-vinayak/cpp-sols/tree/master/2682-count-increasing-quadruplets) |
 | [2689-rearranging-fruits](https://github.com/lord-vinayak/cpp-sols/tree/master/2689-rearranging-fruits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lord-vinayak/cpp-sols/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/lord-vinayak/cpp-sols/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2833-count-zero-request-servers](https://github.com/lord-vinayak/cpp-sols/tree/master/2833-count-zero-request-servers) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
@@ -801,6 +803,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1657-find-the-winner-of-an-array-game](https://github.com/lord-vinayak/cpp-sols/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lord-vinayak/cpp-sols/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2645-pass-the-pillow](https://github.com/lord-vinayak/cpp-sols/tree/master/2645-pass-the-pillow) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/lord-vinayak/cpp-sols/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3625-stone-removal-game](https://github.com/lord-vinayak/cpp-sols/tree/master/3625-stone-removal-game) |
 ## Binary Search Tree
 |  |
