@@ -209,6 +209,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0621-task-scheduler](https://github.com/lord-vinayak/cpp-sols/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/lord-vinayak/cpp-sols/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0794-swim-in-rising-water) |
+| [1014-k-closest-points-to-origin](https://github.com/lord-vinayak/cpp-sols/tree/master/1014-k-closest-points-to-origin) |
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/lord-vinayak/cpp-sols/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0968-beautiful-array](https://github.com/lord-vinayak/cpp-sols/tree/master/0968-beautiful-array) |
 | [0985-bag-of-tokens](https://github.com/lord-vinayak/cpp-sols/tree/master/0985-bag-of-tokens) |
 | [0993-tallest-billboard](https://github.com/lord-vinayak/cpp-sols/tree/master/0993-tallest-billboard) |
+| [1014-k-closest-points-to-origin](https://github.com/lord-vinayak/cpp-sols/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/lord-vinayak/cpp-sols/tree/master/1025-minimum-cost-for-tickets) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/lord-vinayak/cpp-sols/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1039-find-the-town-judge](https://github.com/lord-vinayak/cpp-sols/tree/master/1039-find-the-town-judge) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0780-max-chunks-to-make-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0780-max-chunks-to-make-sorted) |
 | [0917-boats-to-save-people](https://github.com/lord-vinayak/cpp-sols/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/lord-vinayak/cpp-sols/tree/master/0985-bag-of-tokens) |
+| [1014-k-closest-points-to-origin](https://github.com/lord-vinayak/cpp-sols/tree/master/1014-k-closest-points-to-origin) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/lord-vinayak/cpp-sols/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1466-jump-game-v](https://github.com/lord-vinayak/cpp-sols/tree/master/1466-jump-game-v) |
 | [2689-rearranging-fruits](https://github.com/lord-vinayak/cpp-sols/tree/master/2689-rearranging-fruits) |
@@ -557,6 +560,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0826-soup-servings](https://github.com/lord-vinayak/cpp-sols/tree/master/0826-soup-servings) |
 | [0923-super-egg-drop](https://github.com/lord-vinayak/cpp-sols/tree/master/0923-super-egg-drop) |
 | [0968-beautiful-array](https://github.com/lord-vinayak/cpp-sols/tree/master/0968-beautiful-array) |
+| [1014-k-closest-points-to-origin](https://github.com/lord-vinayak/cpp-sols/tree/master/1014-k-closest-points-to-origin) |
 | [1119-robot-bounded-in-circle](https://github.com/lord-vinayak/cpp-sols/tree/master/1119-robot-bounded-in-circle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/lord-vinayak/cpp-sols/tree/master/1370-count-number-of-nice-subarrays) |
 | [1372-check-if-it-is-a-good-array](https://github.com/lord-vinayak/cpp-sols/tree/master/1372-check-if-it-is-a-good-array) |
@@ -569,6 +573,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 ## Geometry
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/lord-vinayak/cpp-sols/tree/master/1014-k-closest-points-to-origin) |
 | [2206-detonate-the-maximum-bombs](https://github.com/lord-vinayak/cpp-sols/tree/master/2206-detonate-the-maximum-bombs) |
 ## Matrix
 |  |
@@ -733,6 +738,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0372-super-pow](https://github.com/lord-vinayak/cpp-sols/tree/master/0372-super-pow) |
 | [0763-special-binary-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0763-special-binary-string) |
 | [0968-beautiful-array](https://github.com/lord-vinayak/cpp-sols/tree/master/0968-beautiful-array) |
+| [1014-k-closest-points-to-origin](https://github.com/lord-vinayak/cpp-sols/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -748,6 +754,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lord-vinayak/cpp-sols/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/lord-vinayak/cpp-sols/tree/master/1014-k-closest-points-to-origin) |
 ## Greedy
 |  |
 | ------- |
