@@ -211,6 +211,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0794-swim-in-rising-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0794-swim-in-rising-water) |
 | [1014-k-closest-points-to-origin](https://github.com/lord-vinayak/cpp-sols/tree/master/1014-k-closest-points-to-origin) |
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
+| [1762-furthest-building-you-can-reach](https://github.com/lord-vinayak/cpp-sols/tree/master/1762-furthest-building-you-can-reach) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/lord-vinayak/cpp-sols/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Shortest Path
@@ -470,6 +471,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/lord-vinayak/cpp-sols/tree/master/1755-defuse-the-bomb) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/lord-vinayak/cpp-sols/tree/master/1757-minimum-jumps-to-reach-home) |
+| [1762-furthest-building-you-can-reach](https://github.com/lord-vinayak/cpp-sols/tree/master/1762-furthest-building-you-can-reach) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/lord-vinayak/cpp-sols/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lord-vinayak/cpp-sols/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/lord-vinayak/cpp-sols/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0985-bag-of-tokens](https://github.com/lord-vinayak/cpp-sols/tree/master/0985-bag-of-tokens) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1659-get-the-maximum-score](https://github.com/lord-vinayak/cpp-sols/tree/master/1659-get-the-maximum-score) |
+| [1762-furthest-building-you-can-reach](https://github.com/lord-vinayak/cpp-sols/tree/master/1762-furthest-building-you-can-reach) |
 | [2689-rearranging-fruits](https://github.com/lord-vinayak/cpp-sols/tree/master/2689-rearranging-fruits) |
 | [3195-separate-black-and-white-balls](https://github.com/lord-vinayak/cpp-sols/tree/master/3195-separate-black-and-white-balls) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/lord-vinayak/cpp-sols/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
