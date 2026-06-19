@@ -210,6 +210,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0744-network-delay-time](https://github.com/lord-vinayak/cpp-sols/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0794-swim-in-rising-water) |
 | [1014-k-closest-points-to-origin](https://github.com/lord-vinayak/cpp-sols/tree/master/1014-k-closest-points-to-origin) |
+| [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/lord-vinayak/cpp-sols/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/lord-vinayak/cpp-sols/tree/master/1762-furthest-building-you-can-reach) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/lord-vinayak/cpp-sols/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/lord-vinayak/cpp-sols/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1466-jump-game-v](https://github.com/lord-vinayak/cpp-sols/tree/master/1466-jump-game-v) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lord-vinayak/cpp-sols/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/lord-vinayak/cpp-sols/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/lord-vinayak/cpp-sols/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/lord-vinayak/cpp-sols/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/lord-vinayak/cpp-sols/tree/master/1657-find-the-winner-of-an-array-game) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0733-flood-fill](https://github.com/lord-vinayak/cpp-sols/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0794-swim-in-rising-water) |
 | [0821-bricks-falling-when-hit](https://github.com/lord-vinayak/cpp-sols/tree/master/0821-bricks-falling-when-hit) |
+| [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/lord-vinayak/cpp-sols/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/lord-vinayak/cpp-sols/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lord-vinayak/cpp-sols/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1321-get-equal-substrings-within-budget](https://github.com/lord-vinayak/cpp-sols/tree/master/1321-get-equal-substrings-within-budget) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/lord-vinayak/cpp-sols/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/lord-vinayak/cpp-sols/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/lord-vinayak/cpp-sols/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
