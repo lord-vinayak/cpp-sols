@@ -213,6 +213,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/lord-vinayak/cpp-sols/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/lord-vinayak/cpp-sols/tree/master/1762-furthest-building-you-can-reach) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/lord-vinayak/cpp-sols/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Shortest Path
@@ -480,6 +481,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2206-detonate-the-maximum-bombs](https://github.com/lord-vinayak/cpp-sols/tree/master/2206-detonate-the-maximum-bombs) |
 | [2211-k-radius-subarray-averages](https://github.com/lord-vinayak/cpp-sols/tree/master/2211-k-radius-subarray-averages) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/lord-vinayak/cpp-sols/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/lord-vinayak/cpp-sols/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/2465-shifting-letters-ii) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/2597-cycle-length-queries-in-a-tree) |
@@ -785,6 +787,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1659-get-the-maximum-score](https://github.com/lord-vinayak/cpp-sols/tree/master/1659-get-the-maximum-score) |
 | [1762-furthest-building-you-can-reach](https://github.com/lord-vinayak/cpp-sols/tree/master/1762-furthest-building-you-can-reach) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2689-rearranging-fruits](https://github.com/lord-vinayak/cpp-sols/tree/master/2689-rearranging-fruits) |
 | [3195-separate-black-and-white-balls](https://github.com/lord-vinayak/cpp-sols/tree/master/3195-separate-black-and-white-balls) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/lord-vinayak/cpp-sols/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
