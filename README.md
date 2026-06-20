@@ -62,6 +62,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0662-maximum-width-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lord-vinayak/cpp-sols/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/lord-vinayak/cpp-sols/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0662-maximum-width-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lord-vinayak/cpp-sols/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/lord-vinayak/cpp-sols/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0347-top-k-frequent-elements](https://github.com/lord-vinayak/cpp-sols/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/lord-vinayak/cpp-sols/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/lord-vinayak/cpp-sols/tree/master/0744-network-delay-time) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lord-vinayak/cpp-sols/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0794-swim-in-rising-water) |
 | [1014-k-closest-points-to-origin](https://github.com/lord-vinayak/cpp-sols/tree/master/1014-k-closest-points-to-origin) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/lord-vinayak/cpp-sols/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
@@ -830,6 +833,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0450-delete-node-in-a-bst](https://github.com/lord-vinayak/cpp-sols/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lord-vinayak/cpp-sols/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bitmask
 |  |
 | ------- |
@@ -889,4 +893,12 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [1372-check-if-it-is-a-good-array](https://github.com/lord-vinayak/cpp-sols/tree/master/1372-check-if-it-is-a-good-array) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lord-vinayak/cpp-sols/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lord-vinayak/cpp-sols/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
