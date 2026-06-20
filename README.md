@@ -213,6 +213,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0789-kth-largest-element-in-a-stream](https://github.com/lord-vinayak/cpp-sols/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0794-swim-in-rising-water) |
 | [1014-k-closest-points-to-origin](https://github.com/lord-vinayak/cpp-sols/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/lord-vinayak/cpp-sols/tree/master/1127-last-stone-weight) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/lord-vinayak/cpp-sols/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/lord-vinayak/cpp-sols/tree/master/1762-furthest-building-you-can-reach) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1039-find-the-town-judge](https://github.com/lord-vinayak/cpp-sols/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lord-vinayak/cpp-sols/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1105-uncrossed-lines](https://github.com/lord-vinayak/cpp-sols/tree/master/1105-uncrossed-lines) |
+| [1127-last-stone-weight](https://github.com/lord-vinayak/cpp-sols/tree/master/1127-last-stone-weight) |
 | [1130-last-stone-weight-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/1130-last-stone-weight-ii) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/lord-vinayak/cpp-sols/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1370-count-number-of-nice-subarrays](https://github.com/lord-vinayak/cpp-sols/tree/master/1370-count-number-of-nice-subarrays) |
