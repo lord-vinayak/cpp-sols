@@ -43,6 +43,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lord-vinayak/cpp-sols/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0110-balanced-binary-tree) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lord-vinayak/cpp-sols/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0110-balanced-binary-tree) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lord-vinayak/cpp-sols/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0110-balanced-binary-tree) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/lord-vinayak/cpp-sols/tree/master/0094-binary-tree-inorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/lord-vinayak/cpp-sols/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/lord-vinayak/cpp-sols/tree/master/0402-remove-k-digits) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0779-max-chunks-to-make-sorted-ii) |
