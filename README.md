@@ -229,6 +229,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1762-furthest-building-you-can-reach](https://github.com/lord-vinayak/cpp-sols/tree/master/1762-furthest-building-you-can-reach) |
 | [1794-minimize-deviation-in-array](https://github.com/lord-vinayak/cpp-sols/tree/master/1794-minimize-deviation-in-array) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2379-maximum-total-importance-of-roads](https://github.com/lord-vinayak/cpp-sols/tree/master/2379-maximum-total-importance-of-roads) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/lord-vinayak/cpp-sols/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Shortest Path
@@ -538,6 +539,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1014-k-closest-points-to-origin](https://github.com/lord-vinayak/cpp-sols/tree/master/1014-k-closest-points-to-origin) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/lord-vinayak/cpp-sols/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1466-jump-game-v](https://github.com/lord-vinayak/cpp-sols/tree/master/1466-jump-game-v) |
+| [2379-maximum-total-importance-of-roads](https://github.com/lord-vinayak/cpp-sols/tree/master/2379-maximum-total-importance-of-roads) |
 | [2689-rearranging-fruits](https://github.com/lord-vinayak/cpp-sols/tree/master/2689-rearranging-fruits) |
 | [2833-count-zero-request-servers](https://github.com/lord-vinayak/cpp-sols/tree/master/2833-count-zero-request-servers) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/lord-vinayak/cpp-sols/tree/master/3982-maximum-walls-destroyed-by-robots) |
@@ -808,6 +810,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1762-furthest-building-you-can-reach](https://github.com/lord-vinayak/cpp-sols/tree/master/1762-furthest-building-you-can-reach) |
 | [1794-minimize-deviation-in-array](https://github.com/lord-vinayak/cpp-sols/tree/master/1794-minimize-deviation-in-array) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2379-maximum-total-importance-of-roads](https://github.com/lord-vinayak/cpp-sols/tree/master/2379-maximum-total-importance-of-roads) |
 | [2689-rearranging-fruits](https://github.com/lord-vinayak/cpp-sols/tree/master/2689-rearranging-fruits) |
 | [3195-separate-black-and-white-balls](https://github.com/lord-vinayak/cpp-sols/tree/master/3195-separate-black-and-white-balls) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/lord-vinayak/cpp-sols/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -906,6 +909,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0770-couples-holding-hands](https://github.com/lord-vinayak/cpp-sols/tree/master/0770-couples-holding-hands) |
+| [2379-maximum-total-importance-of-roads](https://github.com/lord-vinayak/cpp-sols/tree/master/2379-maximum-total-importance-of-roads) |
 ## Number Theory
 |  |
 | ------- |
