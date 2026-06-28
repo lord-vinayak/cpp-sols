@@ -195,6 +195,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2206-detonate-the-maximum-bombs](https://github.com/lord-vinayak/cpp-sols/tree/master/2206-detonate-the-maximum-bombs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -232,11 +233,13 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2379-maximum-total-importance-of-roads](https://github.com/lord-vinayak/cpp-sols/tree/master/2379-maximum-total-importance-of-roads) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/lord-vinayak/cpp-sols/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/lord-vinayak/cpp-sols/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/lord-vinayak/cpp-sols/tree/master/0744-network-delay-time) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -515,6 +518,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/lord-vinayak/cpp-sols/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lord-vinayak/cpp-sols/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/lord-vinayak/cpp-sols/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/lord-vinayak/cpp-sols/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [4079-maximum-capacity-within-budget](https://github.com/lord-vinayak/cpp-sols/tree/master/4079-maximum-capacity-within-budget) |
@@ -618,6 +622,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/lord-vinayak/cpp-sols/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -915,6 +920,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0770-couples-holding-hands](https://github.com/lord-vinayak/cpp-sols/tree/master/0770-couples-holding-hands) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/lord-vinayak/cpp-sols/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2379-maximum-total-importance-of-roads](https://github.com/lord-vinayak/cpp-sols/tree/master/2379-maximum-total-importance-of-roads) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Number Theory
 |  |
 | ------- |
