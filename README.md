@@ -187,6 +187,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0813-all-paths-from-source-to-target](https://github.com/lord-vinayak/cpp-sols/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/lord-vinayak/cpp-sols/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/lord-vinayak/cpp-sols/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0993-tallest-billboard](https://github.com/lord-vinayak/cpp-sols/tree/master/0993-tallest-billboard) |
 | [1014-k-closest-points-to-origin](https://github.com/lord-vinayak/cpp-sols/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/lord-vinayak/cpp-sols/tree/master/1025-minimum-cost-for-tickets) |
+| [1036-rotting-oranges](https://github.com/lord-vinayak/cpp-sols/tree/master/1036-rotting-oranges) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/lord-vinayak/cpp-sols/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1039-find-the-town-judge](https://github.com/lord-vinayak/cpp-sols/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lord-vinayak/cpp-sols/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0733-flood-fill](https://github.com/lord-vinayak/cpp-sols/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0794-swim-in-rising-water) |
 | [0821-bricks-falling-when-hit](https://github.com/lord-vinayak/cpp-sols/tree/master/0821-bricks-falling-when-hit) |
+| [1036-rotting-oranges](https://github.com/lord-vinayak/cpp-sols/tree/master/1036-rotting-oranges) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/lord-vinayak/cpp-sols/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/lord-vinayak/cpp-sols/tree/master/2101-last-day-where-you-can-still-cross) |
