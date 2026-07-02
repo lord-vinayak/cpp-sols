@@ -189,6 +189,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/lord-vinayak/cpp-sols/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/lord-vinayak/cpp-sols/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/lord-vinayak/cpp-sols/tree/master/1757-minimum-jumps-to-reach-home) |
@@ -921,6 +922,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0770-couples-holding-hands](https://github.com/lord-vinayak/cpp-sols/tree/master/0770-couples-holding-hands) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/lord-vinayak/cpp-sols/tree/master/1229-shortest-path-with-alternating-colors) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/lord-vinayak/cpp-sols/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2379-maximum-total-importance-of-roads](https://github.com/lord-vinayak/cpp-sols/tree/master/2379-maximum-total-importance-of-roads) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/3558-find-a-safe-walk-through-a-grid) |
