@@ -96,6 +96,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/lord-vinayak/cpp-sols/tree/master/0310-minimum-height-trees) |
+| [0365-water-and-jug-problem](https://github.com/lord-vinayak/cpp-sols/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/lord-vinayak/cpp-sols/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/lord-vinayak/cpp-sols/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lord-vinayak/cpp-sols/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0279-perfect-squares](https://github.com/lord-vinayak/cpp-sols/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/lord-vinayak/cpp-sols/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/lord-vinayak/cpp-sols/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/lord-vinayak/cpp-sols/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/lord-vinayak/cpp-sols/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/lord-vinayak/cpp-sols/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lord-vinayak/cpp-sols/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0166-fraction-to-recurring-decimal](https://github.com/lord-vinayak/cpp-sols/tree/master/0166-fraction-to-recurring-decimal) |
 | [0263-ugly-number](https://github.com/lord-vinayak/cpp-sols/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/lord-vinayak/cpp-sols/tree/master/0279-perfect-squares) |
+| [0365-water-and-jug-problem](https://github.com/lord-vinayak/cpp-sols/tree/master/0365-water-and-jug-problem) |
 | [0372-super-pow](https://github.com/lord-vinayak/cpp-sols/tree/master/0372-super-pow) |
 | [0650-2-keys-keyboard](https://github.com/lord-vinayak/cpp-sols/tree/master/0650-2-keys-keyboard) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/lord-vinayak/cpp-sols/tree/master/0668-kth-smallest-number-in-multiplication-table) |
