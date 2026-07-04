@@ -233,6 +233,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/lord-vinayak/cpp-sols/tree/master/1762-furthest-building-you-can-reach) |
 | [1794-minimize-deviation-in-array](https://github.com/lord-vinayak/cpp-sols/tree/master/1794-minimize-deviation-in-array) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/lord-vinayak/cpp-sols/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/lord-vinayak/cpp-sols/tree/master/2379-maximum-total-importance-of-roads) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/lord-vinayak/cpp-sols/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | ------- |
 | [0399-evaluate-division](https://github.com/lord-vinayak/cpp-sols/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/lord-vinayak/cpp-sols/tree/master/0744-network-delay-time) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/lord-vinayak/cpp-sols/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Union Find
 |  |
@@ -564,6 +566,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0310-minimum-height-trees](https://github.com/lord-vinayak/cpp-sols/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/lord-vinayak/cpp-sols/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/lord-vinayak/cpp-sols/tree/master/0881-loud-and-rich) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/lord-vinayak/cpp-sols/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/lord-vinayak/cpp-sols/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Backtracking
 |  |
@@ -716,6 +719,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1659-get-the-maximum-score](https://github.com/lord-vinayak/cpp-sols/tree/master/1659-get-the-maximum-score) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/lord-vinayak/cpp-sols/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/lord-vinayak/cpp-sols/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/lord-vinayak/cpp-sols/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2682-count-increasing-quadruplets](https://github.com/lord-vinayak/cpp-sols/tree/master/2682-count-increasing-quadruplets) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/lord-vinayak/cpp-sols/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Stack
@@ -926,6 +930,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | ------- |
 | [0770-couples-holding-hands](https://github.com/lord-vinayak/cpp-sols/tree/master/0770-couples-holding-hands) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/lord-vinayak/cpp-sols/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/lord-vinayak/cpp-sols/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/lord-vinayak/cpp-sols/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2379-maximum-total-importance-of-roads](https://github.com/lord-vinayak/cpp-sols/tree/master/2379-maximum-total-importance-of-roads) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/3558-find-a-safe-walk-through-a-grid) |
