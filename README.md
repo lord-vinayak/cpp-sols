@@ -227,6 +227,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0744-network-delay-time](https://github.com/lord-vinayak/cpp-sols/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lord-vinayak/cpp-sols/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0794-swim-in-rising-water) |
+| [0918-reachable-nodes-in-subdivided-graph](https://github.com/lord-vinayak/cpp-sols/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [1014-k-closest-points-to-origin](https://github.com/lord-vinayak/cpp-sols/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/lord-vinayak/cpp-sols/tree/master/1127-last-stone-weight) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/lord-vinayak/cpp-sols/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | ------- |
 | [0399-evaluate-division](https://github.com/lord-vinayak/cpp-sols/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/lord-vinayak/cpp-sols/tree/master/0744-network-delay-time) |
+| [0918-reachable-nodes-in-subdivided-graph](https://github.com/lord-vinayak/cpp-sols/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/lord-vinayak/cpp-sols/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Union Find
@@ -931,6 +933,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0770-couples-holding-hands](https://github.com/lord-vinayak/cpp-sols/tree/master/0770-couples-holding-hands) |
+| [0918-reachable-nodes-in-subdivided-graph](https://github.com/lord-vinayak/cpp-sols/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/lord-vinayak/cpp-sols/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/lord-vinayak/cpp-sols/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/lord-vinayak/cpp-sols/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
