@@ -73,6 +73,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1544-count-good-nodes-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/2597-cycle-length-queries-in-a-tree) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2101-last-day-where-you-can-still-cross](https://github.com/lord-vinayak/cpp-sols/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2206-detonate-the-maximum-bombs](https://github.com/lord-vinayak/cpp-sols/tree/master/2206-detonate-the-maximum-bombs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -530,6 +532,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lord-vinayak/cpp-sols/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/lord-vinayak/cpp-sols/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/lord-vinayak/cpp-sols/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [4079-maximum-capacity-within-budget](https://github.com/lord-vinayak/cpp-sols/tree/master/4079-maximum-capacity-within-budget) |
 ## Sorting
@@ -725,6 +728,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/lord-vinayak/cpp-sols/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/lord-vinayak/cpp-sols/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2682-count-increasing-quadruplets](https://github.com/lord-vinayak/cpp-sols/tree/master/2682-count-increasing-quadruplets) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/lord-vinayak/cpp-sols/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Stack
 |  |
