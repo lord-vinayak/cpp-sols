@@ -385,6 +385,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2465-shifting-letters-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lord-vinayak/cpp-sols/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3195-separate-black-and-white-balls](https://github.com/lord-vinayak/cpp-sols/tree/master/3195-separate-black-and-white-balls) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/lord-vinayak/cpp-sols/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Sliding Window
 |  |
 | ------- |
@@ -919,6 +920,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | ------- |
 | [2682-count-increasing-quadruplets](https://github.com/lord-vinayak/cpp-sols/tree/master/2682-count-increasing-quadruplets) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/lord-vinayak/cpp-sols/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/lord-vinayak/cpp-sols/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Union-Find
 |  |
 | ------- |
