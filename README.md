@@ -124,6 +124,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/lord-vinayak/cpp-sols/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2206-detonate-the-maximum-bombs](https://github.com/lord-vinayak/cpp-sols/tree/master/2206-detonate-the-maximum-bombs) |
+| [2213-find-all-people-with-secret](https://github.com/lord-vinayak/cpp-sols/tree/master/2213-find-all-people-with-secret) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Binary Tree
@@ -199,6 +200,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1757-minimum-jumps-to-reach-home](https://github.com/lord-vinayak/cpp-sols/tree/master/1757-minimum-jumps-to-reach-home) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/lord-vinayak/cpp-sols/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2206-detonate-the-maximum-bombs](https://github.com/lord-vinayak/cpp-sols/tree/master/2206-detonate-the-maximum-bombs) |
+| [2213-find-all-people-with-secret](https://github.com/lord-vinayak/cpp-sols/tree/master/2213-find-all-people-with-secret) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1222-remove-covered-intervals](https://github.com/lord-vinayak/cpp-sols/tree/master/1222-remove-covered-intervals) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/lord-vinayak/cpp-sols/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1466-jump-game-v](https://github.com/lord-vinayak/cpp-sols/tree/master/1466-jump-game-v) |
+| [2213-find-all-people-with-secret](https://github.com/lord-vinayak/cpp-sols/tree/master/2213-find-all-people-with-secret) |
 | [2379-maximum-total-importance-of-roads](https://github.com/lord-vinayak/cpp-sols/tree/master/2379-maximum-total-importance-of-roads) |
 | [2689-rearranging-fruits](https://github.com/lord-vinayak/cpp-sols/tree/master/2689-rearranging-fruits) |
 | [2833-count-zero-request-servers](https://github.com/lord-vinayak/cpp-sols/tree/master/2833-count-zero-request-servers) |
@@ -930,6 +933,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/lord-vinayak/cpp-sols/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1753-path-with-minimum-effort](https://github.com/lord-vinayak/cpp-sols/tree/master/1753-path-with-minimum-effort) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/lord-vinayak/cpp-sols/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2213-find-all-people-with-secret](https://github.com/lord-vinayak/cpp-sols/tree/master/2213-find-all-people-with-secret) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Binary Indexed Tree
 |  |
@@ -942,6 +946,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/lord-vinayak/cpp-sols/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/lord-vinayak/cpp-sols/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/lord-vinayak/cpp-sols/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [2213-find-all-people-with-secret](https://github.com/lord-vinayak/cpp-sols/tree/master/2213-find-all-people-with-secret) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/lord-vinayak/cpp-sols/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2379-maximum-total-importance-of-roads](https://github.com/lord-vinayak/cpp-sols/tree/master/2379-maximum-total-importance-of-roads) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/3558-find-a-safe-walk-through-a-grid) |
