@@ -523,6 +523,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/lord-vinayak/cpp-sols/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/2465-shifting-letters-ii) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/lord-vinayak/cpp-sols/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [2682-count-increasing-quadruplets](https://github.com/lord-vinayak/cpp-sols/tree/master/2682-count-increasing-quadruplets) |
 | [2689-rearranging-fruits](https://github.com/lord-vinayak/cpp-sols/tree/master/2689-rearranging-fruits) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2101-last-day-where-you-can-still-cross](https://github.com/lord-vinayak/cpp-sols/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/lord-vinayak/cpp-sols/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/lord-vinayak/cpp-sols/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/lord-vinayak/cpp-sols/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/lord-vinayak/cpp-sols/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
@@ -800,6 +802,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0763-special-binary-string](https://github.com/lord-vinayak/cpp-sols/tree/master/0763-special-binary-string) |
 | [0968-beautiful-array](https://github.com/lord-vinayak/cpp-sols/tree/master/0968-beautiful-array) |
 | [1014-k-closest-points-to-origin](https://github.com/lord-vinayak/cpp-sols/tree/master/1014-k-closest-points-to-origin) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/lord-vinayak/cpp-sols/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -938,6 +941,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/lord-vinayak/cpp-sols/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2682-count-increasing-quadruplets](https://github.com/lord-vinayak/cpp-sols/tree/master/2682-count-increasing-quadruplets) |
 ## Graph Theory
 |  |
@@ -966,4 +970,13 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [1794-minimize-deviation-in-array](https://github.com/lord-vinayak/cpp-sols/tree/master/1794-minimize-deviation-in-array) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/lord-vinayak/cpp-sols/tree/master/2513-number-of-pairs-satisfying-inequality) |
+## Segment Tree
+|  |
+| ------- |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/lord-vinayak/cpp-sols/tree/master/2513-number-of-pairs-satisfying-inequality) |
+## Merge Sort
+|  |
+| ------- |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/lord-vinayak/cpp-sols/tree/master/2513-number-of-pairs-satisfying-inequality) |
 <!---LeetCode Topics End-->
