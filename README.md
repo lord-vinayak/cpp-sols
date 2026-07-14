@@ -292,6 +292,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0926-find-and-replace-pattern](https://github.com/lord-vinayak/cpp-sols/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/lord-vinayak/cpp-sols/tree/master/0940-fruit-into-baskets) |
+| [0976-minimum-area-rectangle](https://github.com/lord-vinayak/cpp-sols/tree/master/0976-minimum-area-rectangle) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lord-vinayak/cpp-sols/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/lord-vinayak/cpp-sols/tree/master/1039-find-the-town-judge) |
 | [1370-count-number-of-nice-subarrays](https://github.com/lord-vinayak/cpp-sols/tree/master/1370-count-number-of-nice-subarrays) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0926-find-and-replace-pattern](https://github.com/lord-vinayak/cpp-sols/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/lord-vinayak/cpp-sols/tree/master/0940-fruit-into-baskets) |
 | [0968-beautiful-array](https://github.com/lord-vinayak/cpp-sols/tree/master/0968-beautiful-array) |
+| [0976-minimum-area-rectangle](https://github.com/lord-vinayak/cpp-sols/tree/master/0976-minimum-area-rectangle) |
 | [0985-bag-of-tokens](https://github.com/lord-vinayak/cpp-sols/tree/master/0985-bag-of-tokens) |
 | [0993-tallest-billboard](https://github.com/lord-vinayak/cpp-sols/tree/master/0993-tallest-billboard) |
 | [1014-k-closest-points-to-origin](https://github.com/lord-vinayak/cpp-sols/tree/master/1014-k-closest-points-to-origin) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0780-max-chunks-to-make-sorted) |
 | [0917-boats-to-save-people](https://github.com/lord-vinayak/cpp-sols/tree/master/0917-boats-to-save-people) |
+| [0976-minimum-area-rectangle](https://github.com/lord-vinayak/cpp-sols/tree/master/0976-minimum-area-rectangle) |
 | [0985-bag-of-tokens](https://github.com/lord-vinayak/cpp-sols/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/lord-vinayak/cpp-sols/tree/master/1014-k-closest-points-to-origin) |
 | [1222-remove-covered-intervals](https://github.com/lord-vinayak/cpp-sols/tree/master/1222-remove-covered-intervals) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0826-soup-servings](https://github.com/lord-vinayak/cpp-sols/tree/master/0826-soup-servings) |
 | [0923-super-egg-drop](https://github.com/lord-vinayak/cpp-sols/tree/master/0923-super-egg-drop) |
 | [0968-beautiful-array](https://github.com/lord-vinayak/cpp-sols/tree/master/0968-beautiful-array) |
+| [0976-minimum-area-rectangle](https://github.com/lord-vinayak/cpp-sols/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/lord-vinayak/cpp-sols/tree/master/1014-k-closest-points-to-origin) |
 | [1119-robot-bounded-in-circle](https://github.com/lord-vinayak/cpp-sols/tree/master/1119-robot-bounded-in-circle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/lord-vinayak/cpp-sols/tree/master/1370-count-number-of-nice-subarrays) |
@@ -627,6 +631,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 ## Geometry
 |  |
 | ------- |
+| [0976-minimum-area-rectangle](https://github.com/lord-vinayak/cpp-sols/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/lord-vinayak/cpp-sols/tree/master/1014-k-closest-points-to-origin) |
 | [2206-detonate-the-maximum-bombs](https://github.com/lord-vinayak/cpp-sols/tree/master/2206-detonate-the-maximum-bombs) |
 ## Matrix
