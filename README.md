@@ -239,6 +239,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1762-furthest-building-you-can-reach](https://github.com/lord-vinayak/cpp-sols/tree/master/1762-furthest-building-you-can-reach) |
 | [1794-minimize-deviation-in-array](https://github.com/lord-vinayak/cpp-sols/tree/master/1794-minimize-deviation-in-array) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/lord-vinayak/cpp-sols/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [1917-maximum-average-pass-ratio](https://github.com/lord-vinayak/cpp-sols/tree/master/1917-maximum-average-pass-ratio) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/lord-vinayak/cpp-sols/tree/master/2379-maximum-total-importance-of-roads) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/lord-vinayak/cpp-sols/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1762-furthest-building-you-can-reach](https://github.com/lord-vinayak/cpp-sols/tree/master/1762-furthest-building-you-can-reach) |
 | [1794-minimize-deviation-in-array](https://github.com/lord-vinayak/cpp-sols/tree/master/1794-minimize-deviation-in-array) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/lord-vinayak/cpp-sols/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
+| [1917-maximum-average-pass-ratio](https://github.com/lord-vinayak/cpp-sols/tree/master/1917-maximum-average-pass-ratio) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lord-vinayak/cpp-sols/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/lord-vinayak/cpp-sols/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2206-detonate-the-maximum-bombs](https://github.com/lord-vinayak/cpp-sols/tree/master/2206-detonate-the-maximum-bombs) |
@@ -849,6 +851,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1659-get-the-maximum-score](https://github.com/lord-vinayak/cpp-sols/tree/master/1659-get-the-maximum-score) |
 | [1762-furthest-building-you-can-reach](https://github.com/lord-vinayak/cpp-sols/tree/master/1762-furthest-building-you-can-reach) |
 | [1794-minimize-deviation-in-array](https://github.com/lord-vinayak/cpp-sols/tree/master/1794-minimize-deviation-in-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/lord-vinayak/cpp-sols/tree/master/1917-maximum-average-pass-ratio) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/lord-vinayak/cpp-sols/tree/master/2379-maximum-total-importance-of-roads) |
 | [2689-rearranging-fruits](https://github.com/lord-vinayak/cpp-sols/tree/master/2689-rearranging-fruits) |
