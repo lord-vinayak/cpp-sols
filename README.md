@@ -461,6 +461,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0416-partition-equal-subset-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lord-vinayak/cpp-sols/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/lord-vinayak/cpp-sols/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/lord-vinayak/cpp-sols/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/lord-vinayak/cpp-sols/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/lord-vinayak/cpp-sols/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/lord-vinayak/cpp-sols/tree/master/0485-max-consecutive-ones) |
@@ -666,6 +667,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0300-longest-increasing-subsequence](https://github.com/lord-vinayak/cpp-sols/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/lord-vinayak/cpp-sols/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/lord-vinayak/cpp-sols/tree/master/0410-split-array-largest-sum) |
+| [0456-132-pattern](https://github.com/lord-vinayak/cpp-sols/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/lord-vinayak/cpp-sols/tree/master/0475-heaters) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/lord-vinayak/cpp-sols/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lord-vinayak/cpp-sols/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0144-binary-tree-preorder-traversal](https://github.com/lord-vinayak/cpp-sols/tree/master/0144-binary-tree-preorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/lord-vinayak/cpp-sols/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/lord-vinayak/cpp-sols/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/lord-vinayak/cpp-sols/tree/master/0456-132-pattern) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/lord-vinayak/cpp-sols/tree/master/0874-backspace-string-compare) |
@@ -764,6 +767,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [0042-trapping-rain-water](https://github.com/lord-vinayak/cpp-sols/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/lord-vinayak/cpp-sols/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/lord-vinayak/cpp-sols/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/lord-vinayak/cpp-sols/tree/master/0456-132-pattern) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lord-vinayak/cpp-sols/tree/master/0780-max-chunks-to-make-sorted) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/lord-vinayak/cpp-sols/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -977,6 +981,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/lord-vinayak/cpp-sols/tree/master/0456-132-pattern) |
 | [1794-minimize-deviation-in-array](https://github.com/lord-vinayak/cpp-sols/tree/master/1794-minimize-deviation-in-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/lord-vinayak/cpp-sols/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Segment Tree
