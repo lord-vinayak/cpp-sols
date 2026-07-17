@@ -386,6 +386,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lord-vinayak/cpp-sols/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/lord-vinayak/cpp-sols/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/lord-vinayak/cpp-sols/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2326-sum-of-scores-of-built-strings](https://github.com/lord-vinayak/cpp-sols/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2465-shifting-letters-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lord-vinayak/cpp-sols/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3195-separate-black-and-white-balls](https://github.com/lord-vinayak/cpp-sols/tree/master/3195-separate-black-and-white-balls) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2101-last-day-where-you-can-still-cross](https://github.com/lord-vinayak/cpp-sols/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/lord-vinayak/cpp-sols/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/lord-vinayak/cpp-sols/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2326-sum-of-scores-of-built-strings](https://github.com/lord-vinayak/cpp-sols/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/lord-vinayak/cpp-sols/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
@@ -929,10 +931,12 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/lord-vinayak/cpp-sols/tree/master/0187-repeated-dna-sequences) |
+| [2326-sum-of-scores-of-built-strings](https://github.com/lord-vinayak/cpp-sols/tree/master/2326-sum-of-scores-of-built-strings) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/lord-vinayak/cpp-sols/tree/master/0187-repeated-dna-sequences) |
+| [2326-sum-of-scores-of-built-strings](https://github.com/lord-vinayak/cpp-sols/tree/master/2326-sum-of-scores-of-built-strings) |
 ## Enumeration
 |  |
 | ------- |
@@ -992,4 +996,12 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 |  |
 | ------- |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/lord-vinayak/cpp-sols/tree/master/2513-number-of-pairs-satisfying-inequality) |
+## Suffix Array
+|  |
+| ------- |
+| [2326-sum-of-scores-of-built-strings](https://github.com/lord-vinayak/cpp-sols/tree/master/2326-sum-of-scores-of-built-strings) |
+## String Matching
+|  |
+| ------- |
+| [2326-sum-of-scores-of-built-strings](https://github.com/lord-vinayak/cpp-sols/tree/master/2326-sum-of-scores-of-built-strings) |
 <!---LeetCode Topics End-->
