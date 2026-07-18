@@ -73,6 +73,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [1544-count-good-nodes-in-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/2597-cycle-length-queries-in-a-tree) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/lord-vinayak/cpp-sols/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Depth-First Search
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2206-detonate-the-maximum-bombs](https://github.com/lord-vinayak/cpp-sols/tree/master/2206-detonate-the-maximum-bombs) |
 | [2213-find-all-people-with-secret](https://github.com/lord-vinayak/cpp-sols/tree/master/2213-find-all-people-with-secret) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/lord-vinayak/cpp-sols/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/lord-vinayak/cpp-sols/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Binary Tree
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2213-find-all-people-with-secret](https://github.com/lord-vinayak/cpp-sols/tree/master/2213-find-all-people-with-secret) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/lord-vinayak/cpp-sols/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Graph
 |  |
@@ -969,6 +972,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2213-find-all-people-with-secret](https://github.com/lord-vinayak/cpp-sols/tree/master/2213-find-all-people-with-secret) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/lord-vinayak/cpp-sols/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2379-maximum-total-importance-of-roads](https://github.com/lord-vinayak/cpp-sols/tree/master/2379-maximum-total-importance-of-roads) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/lord-vinayak/cpp-sols/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/lord-vinayak/cpp-sols/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Number Theory
 |  |
