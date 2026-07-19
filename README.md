@@ -305,6 +305,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2044-number-of-wonderful-substrings](https://github.com/lord-vinayak/cpp-sols/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lord-vinayak/cpp-sols/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/lord-vinayak/cpp-sols/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2574-count-subarrays-with-median-k](https://github.com/lord-vinayak/cpp-sols/tree/master/2574-count-subarrays-with-median-k) |
 | [2689-rearranging-fruits](https://github.com/lord-vinayak/cpp-sols/tree/master/2689-rearranging-fruits) |
 | [2833-count-zero-request-servers](https://github.com/lord-vinayak/cpp-sols/tree/master/2833-count-zero-request-servers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lord-vinayak/cpp-sols/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2358-number-of-ways-to-split-array](https://github.com/lord-vinayak/cpp-sols/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/2465-shifting-letters-ii) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/lord-vinayak/cpp-sols/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [2574-count-subarrays-with-median-k](https://github.com/lord-vinayak/cpp-sols/tree/master/2574-count-subarrays-with-median-k) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/lord-vinayak/cpp-sols/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [2682-count-increasing-quadruplets](https://github.com/lord-vinayak/cpp-sols/tree/master/2682-count-increasing-quadruplets) |
 | [2689-rearranging-fruits](https://github.com/lord-vinayak/cpp-sols/tree/master/2689-rearranging-fruits) |
@@ -796,6 +798,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/lord-vinayak/cpp-sols/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2358-number-of-ways-to-split-array](https://github.com/lord-vinayak/cpp-sols/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/2465-shifting-letters-ii) |
+| [2574-count-subarrays-with-median-k](https://github.com/lord-vinayak/cpp-sols/tree/master/2574-count-subarrays-with-median-k) |
 | [2682-count-increasing-quadruplets](https://github.com/lord-vinayak/cpp-sols/tree/master/2682-count-increasing-quadruplets) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lord-vinayak/cpp-sols/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Bit Manipulation
