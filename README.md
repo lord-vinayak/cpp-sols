@@ -309,6 +309,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2689-rearranging-fruits](https://github.com/lord-vinayak/cpp-sols/tree/master/2689-rearranging-fruits) |
 | [2833-count-zero-request-servers](https://github.com/lord-vinayak/cpp-sols/tree/master/2833-count-zero-request-servers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lord-vinayak/cpp-sols/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [4056-longest-balanced-substring-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/4056-longest-balanced-substring-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -395,6 +396,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2691-count-vowel-strings-in-ranges](https://github.com/lord-vinayak/cpp-sols/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3195-separate-black-and-white-balls](https://github.com/lord-vinayak/cpp-sols/tree/master/3195-separate-black-and-white-balls) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/lord-vinayak/cpp-sols/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [4056-longest-balanced-substring-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/4056-longest-balanced-substring-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -801,6 +803,7 @@ A collection of LeetCode questions solved by me. - Created using [LeetHub 2.0](h
 | [2574-count-subarrays-with-median-k](https://github.com/lord-vinayak/cpp-sols/tree/master/2574-count-subarrays-with-median-k) |
 | [2682-count-increasing-quadruplets](https://github.com/lord-vinayak/cpp-sols/tree/master/2682-count-increasing-quadruplets) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lord-vinayak/cpp-sols/tree/master/2691-count-vowel-strings-in-ranges) |
+| [4056-longest-balanced-substring-ii](https://github.com/lord-vinayak/cpp-sols/tree/master/4056-longest-balanced-substring-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
